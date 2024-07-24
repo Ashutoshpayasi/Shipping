@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Home One || onpoint || onpoint HTML 5 Template </title>
+    <title> Sreyasi Marine</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -50,7 +50,7 @@
 
 
 
-    
+
 
 
     <div class="page-wrapper">
@@ -73,7 +73,7 @@
                 "prevEl": "#main-slider__swiper-button-prev"
                 },
                 "autoplay": {
-                    "delay": 8000
+                    "delay": 7000
                 } 
             }'>
                 <div class="swiper-wrapper">
@@ -92,14 +92,11 @@
                                             <div class="main-slider__sub-title-icon">
                                                 <img src="assets/images/icon/main-slider-sub-title-icon.png" alt="">
                                             </div>
-                                            <p class="main-slider__sub-title">Best shipping</p>
+                                            <p class="main-slider__sub-title">Premier Shipping Solutions</p>
                                         </div>
-                                        <h2 class="main-slider__title">Reliable <span>Responsive</span> <br> Driven
-                                            Logistics</h2>
-                                        <p class="main-slider__text">We have been operating for over a decade, providing
-                                            top-notch services to <br> our clients and building a strong track record in
-                                            the
-                                            industry.
+                                        <h2 class="main-slider__title">Efficient <span>Innovative</span> <br> Global Logistics</h2>
+                                        <p class="main-slider__text">With over ten years of experience, we've mastered the art of seamless shipping,
+                                            <br> offering unparalleled services that connect businesses across the globe.
                                         </p>
                                         <div class="main-slider__btn-and-call-box">
                                             <div class="main-slider__btn-box">
@@ -136,14 +133,11 @@
                                             <div class="main-slider__sub-title-icon">
                                                 <img src="assets/images/icon/main-slider-sub-title-icon.png" alt="">
                                             </div>
-                                            <p class="main-slider__sub-title">Best shipping</p>
+                                            <p class="main-slider__sub-title">Your Success, Our Priority</p>
                                         </div>
-                                        <h2 class="main-slider__title">Reliable <span>Responsive</span> <br> Driven
-                                            Logistics</h2>
-                                        <p class="main-slider__text">We have been operating for over a decade, providing
-                                            top-notch services to <br> our clients and building a strong track record in
-                                            the
-                                            industry.
+                                        <h2 class="main-slider__title">Dedicated <span>Customer-Centric</span> <br> Logistics Services</h2>
+                                        <p class="main-slider__text">We believe in building lasting relationships by ensuring our clients' success.
+                                            <br> With personalized logistics solutions, we cater to your unique needs, delivering peace of mind.
                                         </p>
                                         <div class="main-slider__btn-and-call-box">
                                             <div class="main-slider__btn-box">
@@ -180,14 +174,11 @@
                                             <div class="main-slider__sub-title-icon">
                                                 <img src="assets/images/icon/main-slider-sub-title-icon.png" alt="">
                                             </div>
-                                            <p class="main-slider__sub-title">Best shipping</p>
+                                            <p class="main-slider__sub-title">Embracing Tomorrow's Solutions Today</p>
                                         </div>
-                                        <h2 class="main-slider__title">Reliable <span>Responsive</span> <br> Driven
-                                            Logistics</h2>
-                                        <p class="main-slider__text">We have been operating for over a decade, providing
-                                            top-notch services to <br> our clients and building a strong track record in
-                                            the
-                                            industry.
+                                        <h2 class="main-slider__title">Smart <span>Innovative</span> <br> Logistics Technology</h2>
+                                        <p class="main-slider__text">Leveraging cutting-edge technology, we optimize supply chains for efficiency and reliability.
+                                            <br> Our innovative solutions reduce costs and enhance performance, driving growth for your business.
                                         </p>
                                         <div class="main-slider__btn-and-call-box">
                                             <div class="main-slider__btn-box">
@@ -220,72 +211,14 @@
         <!--Main Slider End-->
 
 
-
+    
         <!--Services One Start-->
         <section class="services-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">LATEST SERVICE</span>
-                    </div>
-                    <h2 class="section-title__title">Your supply chain partner<br> for success</h2>
-                </div>
-                <div class="row">
-                    <!--Services One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                        <div class="services-one__single">
-                            <div class="services-one__icon">
-                                <span class="icon-postbox"></span>
-                            </div>
-                            <h3 class="services-one__title"><a href="express-freight-solutions.php">Fast and reliable
-                                    logistics
-                                    the solutions</a></h3>
-                            <div class="services-one__btn-box">
-                                <a href="express-freight-solutions.php" class="thm-btn services-one__btn">Read
-                                    more<span></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Services One Single End-->
-                    <!--Services One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="services-one__single">
-                            <div class="services-one__icon">
-                                <span class="icon-customer-service"></span>
-                            </div>
-                            <h3 class="services-one__title"><a href="quick-move-logistics.php">Bridges Construction is
-                                    an
-                                    essen industry</a></h3>
-                            <div class="services-one__btn-box">
-                                <a href="quick-move-logistics.php" class="thm-btn services-one__btn">Read
-                                    more<span></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Services One Single End-->
-                    <!--Services One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="300ms">
-                        <div class="services-one__single">
-                            <div class="services-one__icon">
-                                <span class="icon-container"></span>
-                            </div>
-                            <h3 class="services-one__title"><a href="speedy-dispatch.php">That involves building adesig
-                                    the a structures</a></h3>
-                            <div class="services-one__btn-box">
-                                <a href="speedy-dispatch.php" class="thm-btn services-one__btn">Read
-                                    more<span></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Services One Single End-->
-                </div>
-            </div>
-        </section>
-        <!--Services One End-->
 
-        <!--Why Choose One Start-->
-        <section class="why-choose-one">
-            <div class="container">
+                    <h2 class="section-title__title">Why Partner with Us <br>For Your Shipping Needs?</h2>
+                </div>
                 <div class="row">
                     <div class="col-xl-6 col-lg-6">
                         <div class="why-choose-one__left">
@@ -296,7 +229,7 @@
                                 <h2 class="section-title__title">Delivering excellence every a time Express Logistics
                                 </h2>
                             </div>
-                            <p class="why-choose-one__text">Construction is an essential industry that involves building
+                            <p class="why-choose-one__text" style="text-align: justify;">Construction is an essential industry that involves building
                                 adesigning the an structures such as buildings roads, bridges Construction is an essent
                                 industry that involves building adesigning the a structures such </p>
                             <div class="why-choose-one__btn-box">
@@ -318,260 +251,19 @@
                         </div>
                     </div>
                 </div>
+
+
             </div>
         </section>
-        <!--Why Choose One End-->
+        <!--Services One End-->
+        <hr class="section-divider">
 
-        <!--Project One Start-->
-        <section class="project-one">
-            <div class="container">
-                <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Our projects</span>
-                    </div>
-                    <h2 class="section-title__title">Let’s discover all our <br>recent project</h2>
-                </div>
-                <div class="row masonary-layout">
-                    <!--Project One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="project-one__single">
-                            <div class="project-one__img-box">
-                                <div class="project-one__img">
-                                    <img src="assets/images/project/project-1-1.jpg" alt="">
-                                </div>
-                                <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success
-                                            through logistics</a>
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="project-one__single">
-                            <div class="project-one__img-box">
-                                <div class="project-one__img">
-                                    <img src="assets/images/project/project-1-2.jpg" alt="">
-                                </div>
-                                <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success
-                                            through logistics</a>
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="project-one__single">
-                            <div class="project-one__img-box">
-                                <div class="project-one__img">
-                                    <img src="assets/images/project/project-1-3.jpg" alt="">
-                                </div>
-                                <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success
-                                            through logistics</a>
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="project-one__single">
-                            <div class="project-one__img-box">
-                                <div class="project-one__img">
-                                    <img src="assets/images/project/project-1-4.jpg" alt="">
-                                </div>
-                                <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success
-                                            through logistics</a>
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="project-one__single">
-                            <div class="project-one__img-box">
-                                <div class="project-one__img">
-                                    <img src="assets/images/project/project-1-5.jpg" alt="">
-                                </div>
-                                <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success
-                                            through logistics</a>
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="project-one__single">
-                            <div class="project-one__img-box">
-                                <div class="project-one__img">
-                                    <img src="assets/images/project/project-1-6.jpg" alt="">
-                                </div>
-                                <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success
-                                            through logistics</a>
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="project-one__single">
-                            <div class="project-one__img-box">
-                                <div class="project-one__img">
-                                    <img src="assets/images/project/project-1-7.jpg" alt="">
-                                </div>
-                                <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success
-                                            through logistics</a>
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="project-one__single">
-                            <div class="project-one__img-box">
-                                <div class="project-one__img">
-                                    <img src="assets/images/deleteall.webp" alt="">
-                                </div>
-                                <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success
-                                            through logistics</a>
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="project-one__single">
-                            <div class="project-one__img-box">
-                                <div class="project-one__img">
-                                    <img src="assets/images/project/project-1-9.jpg" alt="">
-                                </div>
-                                <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success
-                                            through logistics</a>
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                </div>
-            </div>
-        </section>
-        <!--Project One End-->
-
-        <!--Brand One Start-->
-        <section class="brand-one">
-            <div class="container">
-                <p class="brand-one__text count-box">Join the <span class="count-text" data-stop="150" data-speed="1500">00</span><span>+</span> companies trusting maxline company</p>
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100,
-                "slidesPerView": 5,
-                "loop": true,
-                "navigation": {
-                    "nextEl": "#brand-one__swiper-button-next",
-                    "prevEl": "#brand-one__swiper-button-prev"
-                },
-                "autoplay": { "delay": 5000 },
-                "breakpoints": {
-                    "0": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 1
-                    },
-                    "375": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 1
-                    },
-                    "575": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 2
-                    },
-                    "767": {
-                        "spaceBetween": 50,
-                        "slidesPerView": 3
-                    },
-                    "991": {
-                        "spaceBetween": 50,
-                        "slidesPerView": 4
-                    },
-                    "1199": {
-                        "spaceBetween": 100,
-                        "slidesPerView": 5
-                    },
-                    "1199": {
-                        "spaceBetween": 100,
-                        "slidesPerView": 5
-                    }
-                }}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Brand One End-->
-
-        <!--About One Start-->
         <section class="about-one">
             <div class="container">
+                <div class="section-title text-center">
+
+                    <h2 class="section-title__title">Why Partner with Us <br>For Your Shipping Needs?</h2>
+                </div>
                 <div class="row">
                     <div class="col-xl-6">
                         <div class="about-one__left">
@@ -641,9 +333,141 @@
                 </div>
             </div>
         </section>
-        <!--About One End-->
 
-        <!--Counter One Start-->
+        <hr class="section-divider">
+
+
+
+        <!--Why Choose One Start-->
+        <section class="process-one">
+            <div class="container">
+                <div class="section-title text-center">
+                    <div class="section-title__tagline-box">
+                        <span class="section-title__tagline">Work Process</span>
+                    </div>
+                    <h2 class="section-title__title">Your trusted logistics a <br> provider for success</h2>
+                </div>
+                <div class="row">
+                    <!--Process One Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="process-one__single">
+                            <div class="process-one__shape-1">
+                                <img src="assets/images/shapes/process-one-shape-1.png" alt="">
+                            </div>
+                            <div class="process-one__count"></div>
+                            <h3 class="process-one__title">Seamless Supply Chain</h3>
+                            <div class="process-one__icon-and-text">
+                                <div class="icon">
+                                    <span class="icon-crane"></span>
+                                </div>
+                                <p>Logistic service in implementation and control the efficient</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Process One Single End-->
+                    <!--Process One Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="process-one__single">
+                            <div class="process-one__shape-1">
+                                <img src="assets/images/shapes/process-one-shape-1.png" alt="">
+                            </div>
+                            <div class="process-one__count"></div>
+                            <h3 class="process-one__title">Reliable Distribution</h3>
+                            <div class="process-one__icon-and-text">
+                                <div class="icon">
+                                    <span class="icon-shipping"></span>
+                                </div>
+                                <p>Logistic service in implementation and control the efficient</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Process One Single End-->
+                    <!--Process One Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="process-one__single">
+                            <div class="process-one__count"></div>
+                            <h3 class="process-one__title">Fast and reliable logistics</h3>
+                            <div class="process-one__icon-and-text">
+                                <div class="icon">
+                                    <span class="icon-postbox"></span>
+                                </div>
+                                <p>Logistic service in implementation and control the efficient</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Process One Single End-->
+                </div>
+            </div>
+        </section>
+        <!--Why Choose One End-->
+
+        <hr class="section-divider">
+
+
+        <section class="why-are-we">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="why-are-we__left">
+                            <div class="why-are-we__img">
+                                <img src="assets/images/resources/why-are-we-img-1.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8">
+                        <div class="why-are-we__right">
+                            <div class="section-title text-left">
+                                <div class="section-title__tagline-box">
+                                    <h3 class="why-choose-two__big-text">Since 1920</h3>
+                                    <span class="section-title__tagline">Why are we best</span>
+
+
+                                </div>
+                                <h2 class="section-title__title">Efficiency at its best with our<br> logistics services
+                                </h2>
+                            </div>
+                            <ul class="why-are-we__list list-unstyled">
+                                <li>
+                                    <div class="why-are-we__icon">
+                                        <span class="icon-arrow-down-left"></span>
+                                    </div>
+                                    <div class="icon">
+                                        <span class="icon-location why-are-we__location"></span>
+                                    </div>
+                                    <div class="content">
+                                        <h3>Real Time tracking</h3>
+                                        <p>Logistic service involves the ntation and control </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="why-are-we__icon-2">
+                                        <span class="icon-arrow-down-right"></span>
+                                    </div>
+                                    <div class="icon">
+                                        <span class="icon-shopping-cart why-are-we__cart"></span>
+                                    </div>
+                                    <div class="content">
+                                        <h3>On time delivary</h3>
+                                        <p>Logistic service involves the ntation and control </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <span class="icon-call why-are-we__call"></span>
+                                    </div>
+                                    <div class="content">
+                                        <h3>24/7 online support</h3>
+                                        <p>Logistic service involves the ntation and control </p>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section class="counter-one">
             <div class="container">
                 <div class="row">
@@ -718,213 +542,196 @@
                 </div>
             </div>
         </section>
-        <!--Counter One End-->
 
-        <!--Team One Start-->
-        <section class="team-one">
+
+        <!--Project One Start-->
+        <section class="project-one">
             <div class="container">
-                <div class="team-one__top">
-                    <div class="section-title text-left">
-                        <div class="section-title__tagline-box">
-                            <span class="section-title__tagline">Our Team</span>
-                        </div>
-                        <h2 class="section-title__title">Simplifying your logistics of <br>the challenges</h2>
+                <div class="section-title text-center">
+                    <div class="section-title__tagline-box">
+                        <span class="section-title__tagline">Our projects</span>
                     </div>
-                    <div class="team-one__nav">
-                        <div class="swiper-button-next1">
-                            <i class="icon-arrow-left"></i>
-                        </div>
-                        <div class="swiper-button-prev1">
-                            <i class="icon-arrow-right"></i>
-                        </div>
-                    </div>
+                    <h2 class="section-title__title">Let’s discover all our <br>recent project</h2>
                 </div>
-                <div class="team-one__bottom">
-                    <div class="thm-swiper__slider swiper-container" data-swiper-options='{
-                        "slidesPerView": 1, 
-                        "spaceBetween": 0,
-                        "speed": 2000,
-                        "loop": true,
-                        "pagination": {
-                            "el": ".swiper-dot-style1",
-                            "type": "bullets",
-                            "clickable": true
-                        },
-    
-                        
-    
-                        "navigation": {
-                            "nextEl": ".swiper-button-prev1",
-                            "prevEl": ".swiper-button-next1"
-                        },
-                        "autoplay": { "delay": 9000 },
-                        "breakpoints": {
-                                "0": {
-                                    "spaceBetween": 0,
-                                    "slidesPerView": 1
-                                },
-                                "375": {
-                                    "spaceBetween": 0,
-                                    "slidesPerView": 1
-                                },
-                                "575": {
-                                    "spaceBetween": 0,
-                                    "slidesPerView": 1
-                                },
-                                "768": {
-                                    "spaceBetween": 30,
-                                    "slidesPerView": 1
-                                },
-                                "992": {
-                                    "spaceBetween": 30,
-                                    "slidesPerView": 2
-                                },
-                                "1200": {
-                                    "spaceBetween": 30,
-                                    "slidesPerView":3
-                                },
-                                "1320": {
-                                    "spaceBetween": 30,
-                                    "slidesPerView":3
-                                }
-                            }
-                    }'>
-                        <div class="swiper-wrapper">
-                            <!--Team One Single Start-->
-                            <div class="swiper-slide">
-                                <div class="team-one__single">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-1.jpg" alt="">
+                <div class="row">
+                    <!--Project Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="project-two__single">
+                            <div class="project-two__content-box">
+                                <div class="section-title text-left">
+                                    <div class="section-title__tagline-box">
+                                        <span class="section-title__tagline">latest project</span>
                                     </div>
-                                    <div class="team-one__content">
-                                        <h3 class="team-one__title"><a href="team-details.php">Brooklyn Simmons</a>
-                                        </h3>
-                                        <p class="team-one__sub-title">Quick Cargo</p>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="icon-instagram"></span></a>
-                                            <a href="#"><span class="icon-linkedin-in"></span></a>
-                                            <a href="#"><span class="icon-Vector"></span></a>
-                                            <a href="#"><span class="icon-facebook-f"></span></a>
-                                        </div>
-                                    </div>
+                                    <h2 class="section-title__title">Seamless logistics for your logo</h2>
+                                </div>
+                                <div class="project-two__btn-box">
+                                    <a href="project-details.php" class="thm-btn project-two__btn">more
+                                        project<span></span></a>
                                 </div>
                             </div>
-                            <!--Team One Single End-->
-                            <!--Team One Single Start-->
-                            <div class="swiper-slide">
-                                <div class="team-one__single">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-2.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__content">
-                                        <h3 class="team-one__title"><a href="team-details.php">Sakib Hasan</a>
-                                        </h3>
-                                        <p class="team-one__sub-title">Speedy Trans</p>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="icon-instagram"></span></a>
-                                            <a href="#"><span class="icon-linkedin-in"></span></a>
-                                            <a href="#"><span class="icon-Vector"></span></a>
-                                            <a href="#"><span class="icon-facebook-f"></span></a>
-                                        </div>
-                                    </div>
+                        </div>
+                    </div>
+                    <!--Project Two Single End-->
+                    <!--Project Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/project-2-1.jpg" alt="">
+                                <div class="project-two__content">
+                                    <p class="project-two__sub-title">Express Logistics</p>
+                                    <h3 class="project-two__title"><a href="project-details.php">Delivering success
+                                            through logistics</a>
+                                    </h3>
                                 </div>
                             </div>
-                            <!--Team One Single End-->
-                            <!--Team One Single Start-->
-                            <div class="swiper-slide">
-                                <div class="team-one__single">
-                                    <div class="team-one__img">
-                                        <img src="assets/images/team/team-1-3.jpg" alt="">
-                                    </div>
-                                    <div class="team-one__content">
-                                        <h3 class="team-one__title"><a href="team-details.php">Fahda Hossain</a>
-                                        </h3>
-                                        <p class="team-one__sub-title">Efficient Transport</p>
-                                        <div class="team-one__social">
-                                            <a href="#"><span class="icon-instagram"></span></a>
-                                            <a href="#"><span class="icon-linkedin-in"></span></a>
-                                            <a href="#"><span class="icon-Vector"></span></a>
-                                            <a href="#"><span class="icon-facebook-f"></span></a>
-                                        </div>
-                                    </div>
+                        </div>
+                    </div>
+                    <!--Project Two Single End-->
+                    <!--Project Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="500ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/project-2-2.jpg" alt="">
+                                <div class="project-two__content">
+                                    <p class="project-two__sub-title">Express Logistics</p>
+                                    <h3 class="project-two__title"><a href="project-details.php">Delivering success
+                                            through logistics</a>
+                                    </h3>
                                 </div>
                             </div>
-                            <!--Team One Single End-->
+                        </div>
+                    </div>
+                    <!--Project Two Single End-->
+                    <!--Project Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="700ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/project-2-3.jpg" alt="">
+                                <div class="project-two__content">
+                                    <p class="project-two__sub-title">Express Logistics</p>
+                                    <h3 class="project-two__title"><a href="project-details.php">Delivering success
+                                            through logistics</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Two Single End-->
+                    <!--Project Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="900ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/project-2-4.jpg" alt="">
+                                <div class="project-two__content">
+                                    <p class="project-two__sub-title">Express Logistics</p>
+                                    <h3 class="project-two__title"><a href="project-details.php">Delivering success
+                                            through logistics</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Two Single End-->
+                    <!--Project Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="1100ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/project-2-5.jpg" alt="">
+                                <div class="project-two__content">
+                                    <p class="project-two__sub-title">Express Logistics</p>
+                                    <h3 class="project-two__title"><a href="project-details.php">Delivering success
+                                            through logistics</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Two Single End-->
+                </div>
+            </div>
+        </section>
+        <!--Project One End-->
+
+        <hr class="section-divider">
+
+        <!--Brand One Start-->
+        <section class="brand-one">
+            <div class="container">
+                <h3 class="brand-one__text count-box">Join the <span class="count-text" data-stop="150" data-speed="1500">00</span><span>+</span> companies trusting maxline company</h3>
+                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100,
+                "slidesPerView": 5,
+                "loop": true,
+                "navigation": {
+                    "nextEl": "#brand-one__swiper-button-next",
+                    "prevEl": "#brand-one__swiper-button-prev"
+                },
+                "autoplay": { "delay": 5000 },
+                "breakpoints": {
+                    "0": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 1
+                    },
+                    "375": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 1
+                    },
+                    "575": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 2
+                    },
+                    "767": {
+                        "spaceBetween": 50,
+                        "slidesPerView": 3
+                    },
+                    "991": {
+                        "spaceBetween": 50,
+                        "slidesPerView": 3
+                    },
+                    "1199": {
+                        "spaceBetween": 100,
+                        "slidesPerView": 3
+                    },
+                    "1199": {
+                        "spaceBetween": 100,
+                        "slidesPerView": 3
+                    }
+                }}'>
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\logo1.svg" alt="">
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\logo.gif" alt="">
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\farseas-logo-color.png" alt="">
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\logo1.svg" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\logo.gif" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\farseas-logo-color.png" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+        <!--Brand One End-->
+
+
+        <hr class="section-divider">
+
+        <!--Team One Start-->
+        
+
+      
         <!--Team One End-->
 
         <!--Why Are We Start-->
-        <section class="why-are-we">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4">
-                        <div class="why-are-we__left">
-                            <div class="why-are-we__img">
-                                <img src="assets/images/resources/why-are-we-img-1.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-8">
-                        <div class="why-are-we__right">
-                            <div class="section-title text-left">
-                                <div class="section-title__tagline-box">
-                                    <span class="section-title__tagline">Why are we best</span>
-                                </div>
-                                <h2 class="section-title__title">Efficiency at its best with our<br> logistics services
-                                </h2>
-                            </div>
-                            <ul class="why-are-we__list list-unstyled">
-                                <li>
-                                    <div class="why-are-we__icon">
-                                        <span class="icon-arrow-down-left"></span>
-                                    </div>
-                                    <div class="icon">
-                                        <span class="icon-location why-are-we__location"></span>
-                                    </div>
-                                    <div class="content">
-                                        <h3>Real Time tracking</h3>
-                                        <p>Logistic service involves the ntation and control </p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="why-are-we__icon-2">
-                                        <span class="icon-arrow-down-right"></span>
-                                    </div>
-                                    <div class="icon">
-                                        <span class="icon-shopping-cart why-are-we__cart"></span>
-                                    </div>
-                                    <div class="content">
-                                        <h3>On time delivary</h3>
-                                        <p>Logistic service involves the ntation and control </p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-call why-are-we__call"></span>
-                                    </div>
-                                    <div class="content">
-                                        <h3>24/7 online support</h3>
-                                        <p>Logistic service involves the ntation and control </p>
-                                    </div>
-                                </li>
-                            </ul>
-                            <div class="why-are-we__img-2">
-                                <img src="assets/images/resources/why-are-we-img-2.jpg" alt="">
-                                <div class="why-are-we__year wow fadeInLeft" data-wow-delay="300ms">
-                                    <h3>Since 1920</h3>
-                                    <p>Logistic service involves the planning, implementation, and control of the
-                                        efficient and effective movement and storage</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        >
         <!--Why Are We End-->
 
         <!--FAQ One Start-->
@@ -1036,183 +843,7 @@
         <!--FAQ One End-->
 
         <!--Testimonial One Start-->
-        <section class="testimonial-one">
-            <div class="container">
-                <div class="testimonial-one__inner">
-                    <div class="testimonial-one__img-one">
-                        <img src="assets/images/testimonial.jpg" alt="">
-                    </div>
-                    <div class="section-title text-center">
-                        <div class="section-title__tagline-box">
-                            <span class="section-title__tagline">clients testimonial</span>
-                        </div>
-                        <h2 class="section-title__title">Your supply chain partner<br> for success</h2>
-                    </div>
-                    <div class="row">
-                        <div class="col-xl-5"></div>
-                        <div class="col-xl-7 col-lg-9">
-                            <div class="testimonial-one__right">
-                                <div class="thm-swiper__slider swiper-container" data-swiper-options='{
-                                    "slidesPerView": 1, 
-                                    "spaceBetween": 0,
-                                    "speed": 2000,
-                                    "loop": true,
-                                    "pagination": {
-                                        "el": ".swiper-dot-style1",
-                                        "type": "bullets",
-                                        "clickable": true
-                                    },
-                
-                                    
-                
-                                    "navigation": {
-                                        "nextEl": ".swiper-button-prev1",
-                                        "prevEl": ".swiper-button-next1"
-                                    },
-                                    "autoplay": { "delay": 9000 },
-                                    "breakpoints": {
-                                            "0": {
-                                                "spaceBetween": 0,
-                                                "slidesPerView": 1
-                                            },
-                                            "375": {
-                                                "spaceBetween": 0,
-                                                "slidesPerView": 1
-                                            },
-                                            "575": {
-                                                "spaceBetween": 0,
-                                                "slidesPerView": 1
-                                            },
-                                            "768": {
-                                                "spaceBetween": 30,
-                                                "slidesPerView": 1
-                                            },
-                                            "992": {
-                                                "spaceBetween": 30,
-                                                "slidesPerView": 1
-                                            },
-                                            "1200": {
-                                                "spaceBetween": 30,
-                                                "slidesPerView":1
-                                            },
-                                            "1320": {
-                                                "spaceBetween": 30,
-                                                "slidesPerView":1
-                                            }
-                                        }
-                                }'>
-                                    <div class="swiper-wrapper">
-                                        <!--Testimonial One Single Start-->
-                                        <div class="swiper-slide">
-                                            <div class="testimonial-one__single">
-                                                <div class="testimonial-one__quote">
-                                                    <span class="icon-quote"></span>
-                                                </div>
-                                                <div class="testimonial-one__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-one__ratting">
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star last-star"></span>
-                                                </div>
-                                                <h3 class="testimonial-one__client-name">Nafiz Bhuiyan</h3>
-                                                <p class="testimonial-one__client-sub-title">Manegar</p>
-                                                <p class="testimonial-one__text">Logistic service involves the planning
-                                                    implementation an and control of the efficient and effective
-                                                    movement and storage of goods and materials Logistic service
-                                                    involves the planning implementation and control</p>
-                                            </div>
-                                        </div>
-                                        <!--Testimonial One Single End-->
-                                        <!--Testimonial One Single Start-->
-                                        <div class="swiper-slide">
-                                            <div class="testimonial-one__single">
-                                                <div class="testimonial-one__quote">
-                                                    <span class="icon-quote"></span>
-                                                </div>
-                                                <div class="testimonial-one__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-one__ratting">
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star last-star"></span>
-                                                </div>
-                                                <h3 class="testimonial-one__client-name">Robert Son</h3>
-                                                <p class="testimonial-one__client-sub-title">Manegar</p>
-                                                <p class="testimonial-one__text">Logistic service involves the planning
-                                                    implementation an and control of the efficient and effective
-                                                    movement and storage of goods and materials Logistic service
-                                                    involves the planning implementation and control</p>
-                                            </div>
-                                        </div>
-                                        <!--Testimonial One Single End-->
-                                        <!--Testimonial One Single Start-->
-                                        <div class="swiper-slide">
-                                            <div class="testimonial-one__single">
-                                                <div class="testimonial-one__quote">
-                                                    <span class="icon-quote"></span>
-                                                </div>
-                                                <div class="testimonial-one__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-one__ratting">
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star last-star"></span>
-                                                </div>
-                                                <h3 class="testimonial-one__client-name">Harbert Spin</h3>
-                                                <p class="testimonial-one__client-sub-title">Manegar</p>
-                                                <p class="testimonial-one__text">Logistic service involves the planning
-                                                    implementation an and control of the efficient and effective
-                                                    movement and storage of goods and materials Logistic service
-                                                    involves the planning implementation and control</p>
-                                            </div>
-                                        </div>
-                                        <!--Testimonial One Single End-->
-                                        <!--Testimonial One Single Start-->
-                                        <div class="swiper-slide">
-                                            <div class="testimonial-one__single">
-                                                <div class="testimonial-one__quote">
-                                                    <span class="icon-quote"></span>
-                                                </div>
-                                                <div class="testimonial-one__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-1-4.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-one__ratting">
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star"></span>
-                                                    <span class="icon-star last-star"></span>
-                                                </div>
-                                                <h3 class="testimonial-one__client-name">Mainto Vula</h3>
-                                                <p class="testimonial-one__client-sub-title">Manegar</p>
-                                                <p class="testimonial-one__text">Logistic service involves the planning
-                                                    implementation an and control of the efficient and effective
-                                                    movement and storage of goods and materials Logistic service
-                                                    involves the planning implementation and control</p>
-                                            </div>
-                                        </div>
-                                        <!--Testimonial One Single End-->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial-one__dot-style">
-                        <div class="swiper-dot-style1"></div>
-                    </div>
-                </div>
-            </div>
-        </section>
+      
         <!--Testimonial One End-->
 
         <!--Blog One Start-->
@@ -1330,14 +961,14 @@
         <!--CTA One End-->
 
         <!--Site Footer Start-->
-       <?php include 'includes/footer.php';?>
+        <?php include 'includes/footer.php'; ?>
         <!--Site Footer End-->
 
 
     </div><!-- /.page-wrapper -->
 
 
-   
+
     <!-- /.search-popup -->
 
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fas fa-arrow-up"></i></a>

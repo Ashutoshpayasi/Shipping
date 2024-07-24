@@ -10,7 +10,7 @@
                             <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                                 <div class="footer-widget__column footer-widget__about">
                                     <div class="footer-widget__logo">
-                                        <a href="index-2.php"><img src="assets/images/resources/footer-logo-1.png" alt=""></a>
+                                        <a href="index.php"><img src="assets\images\shapes\Sreyasi_op3.png" width="250px" alt=""></a>
                                     </div>
                                     <p class="footer-widget__about-text">It is a long established fact that a reader
                                         Empowering Communities</p>
@@ -43,19 +43,19 @@
                                     </div>
                                     <ul class="footer-widget__company-list list-unstyled">
                                         <li>
-                                            <a href="about.php">About Us</a>
+                                            <a href="#">About Us</a>
                                         </li>
                                         <li>
-                                            <a href="faq.php">FAQ</a>
+                                            <a href="#">FAQ</a>
                                         </li>
                                         <li>
-                                            <a href="testimonials.php">Testimonial</a>
+                                            <a href="#">Testimonial</a>
                                         </li>
                                         <li>
-                                            <a href="services.php">Service</a>
+                                            <a href="#">Service</a>
                                         </li>
                                         <li>
-                                            <a href="blog.php">Blog And News</a>
+                                            <a href="#">Blog And News</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -111,11 +111,11 @@
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© themehealer 2024 | All Rights Reserved</p>
+                        <p class="site-footer__bottom-text">© Shreyasi Marine 2024 | All Rights Reserved</p>
                         <ul class="list-unstyled site-footer__bottom-menu">
-                            <li><a href="about.php">Trams & Condition</a></li>
-                            <li><a href="about.php">Privacy Policy</a></li>
-                            <li><a href="contact.php">Contact Us</a></li>
+                            <li><a href="#">Trams & Condition</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index-2.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="150" alt="" /></a>
+                <a href="index.php" aria-label="logo image"><img src="assets\images\shapes\Sreyasi_op3.png" width="150" alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>

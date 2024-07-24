@@ -111,7 +111,7 @@
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© Shreyasi Marine 2024 | All Rights Reserved</p>
+                        <p class="site-footer__bottom-text">© Sreyasi Marine 2024 | All Rights Reserved</p>
                         <ul class="list-unstyled site-footer__bottom-menu">
                             <li><a href="#">Trams & Condition</a></li>
                             <li><a href="#">Privacy Policy</a></li>

@@ -235,58 +235,8 @@
                 <div class="row">
                     <div class="col-xl-4 col-lg-5">
                         <div class="services-details__left">
-                            <div class="services-details__client-box">
-                                <div class="services-details__client-img">
-                                    <img src="assets/images/services/services-details-client-img-1.jpg" alt="">
-                                </div>
-                                <h3 class="services-details__client-name">Sakib al hasan</h3>
-                                <p class="services-details__client-sub-title">Brand Abasador</p>
-                                <p class="services-details__client-text">Construction is an essential industry that the
-                                    building and designing </p>
-                                <h3 class="services-details__client-number"><a href="tel:888123456765">(+888) 123 456
-                                        765</a></h3>
-                                <div class="services-details__client-social">
-                                    <a href="blog-details.php"><span class="icon-instagram"></span></a>
-                                    <a href="blog-details.php"><span class="icon-facebook-f"></span></a>
-                                    <a href="blog-details.php"><span class="icon-Vector"></span></a>
-                                    <a href="blog-details.php"><span class="icon-linkedin-in"></span></a>
-                                </div>
-                            </div>
-                            <div class="services-details__services-box">
-                                <h3 class="services-details__services-list-title">Our Services</h3>
-                                <ul class="services-details__service-list list-unstyled">
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-dabble-arrow"></span>
-                                        </div>
-                                        <p><a href="express-freight-solutions.php">Express Freight Solutions</a></p>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-dabble-arrow"></span>
-                                        </div>
-                                        <p><a href="quick-move-logistics.php">Quick Move Logistics</a></p>
-                                    </li>
-                                    <li class="active">
-                                        <div class="icon">
-                                            <span class="icon-dabble-arrow"></span>
-                                        </div>
-                                        <p><a href="speedy-dispatch.php">Speedy Dispatch</a></p>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-dabble-arrow"></span>
-                                        </div>
-                                        <p><a href="swift-supply-chain.php">Swift Supply Chain</a></p>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-dabble-arrow"></span>
-                                        </div>
-                                        <p><a href="on-point-distribution.php">On Point Distribution</a></p>
-                                    </li>
-                                </ul>
-                            </div>
+                          
+                            
                             <div class="services-details__get-touch">
                                 <div class="services-details__get-touch-bg"
                                     style="background-image: url(assets/images/services/services-details-get-touch-bg-img.jpg);">
@@ -304,40 +254,8 @@
                     <div class="col-xl-8 col-lg-7">
                         <div class="services-details__right">
                             <h3 class="services-details__title-1">Cultivate Success with Agriculture</h3>
-                            <p class="services-details__text-1">Logistics service involves the planning, implementation,
-                                and
-                                control of the efficient and effective transportation, storage, and distribution of
-                                goods
-                                and materials Logistics service involves the planning</p>
-                            <div class="services-details__img-1">
-                                <img src="assets/images/services/services-details-img-1.jpg" alt="">
-                            </div>
-                            <div class="services-details__service-box">
-                                <div class="row">
-                                    <div class="col-xl-6 col-lg-6">
-                                        <div class="services-details__service-single">
-                                            <div class="services-details__service-icon">
-                                                <span class="icon-airplane"></span>
-                                            </div>
-                                            <h3 class="services-details__service-title"><a href="#">Rapid Delivery
-                                                    Services</a></h3>
-                                            <p class="services-details__service-text">Construction is an essential
-                                                industry that an involves building and designing</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6 col-lg-6">
-                                        <div class="services-details__service-single">
-                                            <div class="services-details__service-icon">
-                                                <span class="icon-lift-truck"></span>
-                                            </div>
-                                            <h3 class="services-details__service-title"><a href="#">Quick Move
-                                                    Logistics</a></h3>
-                                            <p class="services-details__service-text">Construction is an essential
-                                                industry that an involves building and designing</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            
+                           
                             <p class="services-details__text-2">Logistics service involves the planning, implementation,
                                 and control of the efficient and effective transportation, storage, and distribution of
                                 goods and materials Logistics service involves the planning Logistics servi involves the

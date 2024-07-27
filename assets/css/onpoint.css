@@ -692,7 +692,7 @@ ul {
   position: relative;
   display: flex;
   align-items: center;
-  gap: 60px;
+  gap: 160px;
   flex-wrap: wrap;
 }
 
@@ -2548,7 +2548,7 @@ ul {
 .why-choose-one__left {
   position: relative;
   display: block;
-  margin-right: 160px;
+  margin-right: 70px;
 }
 
 .why-choose-one__left .section-title {
@@ -5810,6 +5810,7 @@ ul {
   margin: 0 30px 0;
   overflow: hidden;
   z-index: 1;
+  height: 500px;
 }
 
 .page-header__bg {
@@ -5832,7 +5833,7 @@ ul {
   left: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.87) 24.4%, rgba(102, 102, 102, 0) 100%);
+  /* background: linear-gradient(90deg, rgba(0, 0, 0, 0.87) 24.4%, rgba(102, 102, 102, 0) 100%); */
   border-radius: 50px;
 }
 

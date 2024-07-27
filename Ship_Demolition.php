@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Project Details || onpoint || onpoint HTML 5 Template </title>
+    <title> Ship Demolition Service</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -67,20 +67,13 @@
     <div class="page-wrapper">
         <?php include 'includes/header.php' ?>
 
-
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+            <div class="page-header__bg" style="background-image: url(assets/images/favicons/transport-logistics-concept.jpg);">
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <div class="thm-breadcrumb__box">
-                        <ul class="thm-breadcrumb list-unstyled">
-                            <li><a href="index-2.php">Home</a></li>
-                            <li><span class="icon-angle-left"></span></li>
-                            <li>Project_Details</li>
-                        </ul>
-                    </div>
+
                 </div>
             </div>
         </section>
@@ -89,8 +82,7 @@
         <section class="services-one">
             <div class="container">
                 <div class="section-title text-center">
-
-                    <h2 class="section-title__title">Why Partner with Us <br>For Your Shipping Needs?</h2>
+                    <h2 class="section-title__title">Why Partner with Us <br>For Your Ship Demolition Needs?</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-6 col-lg-6">
@@ -98,12 +90,13 @@
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
                                 </div>
-                                <h2 class="section-title__title">Delivering excellence every a time Express Logistics
+                                <h2 class="section-title__title">Excellence in Sustainable Ship Demolition
                                 </h2>
                             </div>
-                            <p class="why-choose-one__text" style="text-align: justify;">Construction is an essential industry that involves building
-                                adesigning the an structures such as buildings roads, bridges Construction is an essent
-                                industry that involves building adesigning the a structures such </p>
+                            <p class="why-choose-one__text" style="text-align: justify;">Responsible ship demolition is crucial for ensuring environmental protection and worker safety while recovering valuable materials.
+                                Our process involves meticulous planning, adherence to international regulations, and the use of advanced techniques for efficient and safe vessel dismantling.</p>
+                            <p class="why-choose-one__text" style="text-align: justify;">By leveraging state-of-the-art technologies and best practices, our ship demolition services optimize resource recovery,
+                                minimize environmental impact, and ensure compliance with global standards. Partnering with us leads to sustainable material recycling, reduced environmental risks, and improved overall performance in end-of-life vessel management.</p>
                             <div class="why-choose-one__btn-box">
                                 <a href="about.php" class="thm-btn why-choose-one__btn">Read more<span></span></a>
                             </div>
@@ -112,19 +105,11 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="why-choose-one__right">
                             <div class="why-choose-one__img wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <img src="assets/images/why-choose.jpg" alt="">
-                                <div class="why-choose-one__delivery-box">
-                                    <div class="icon">
-                                        <span class="icon-airplane"></span>
-                                    </div>
-                                    <p>2 dAYS<br> DELIVARY</p>
-                                </div>
+                                <img src="assets/images/why-choose.jpg" style="height: 400px;" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
-
-
             </div>
         </section>
         <!--Services One End-->
@@ -132,10 +117,7 @@
         <section class="process-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Work Process</span>
-                    </div>
-                    <h2 class="section-title__title">Your trusted logistics a <br> provider for success</h2>
+                    <h2 class="section-title__title">Your trusted <br> Ship Demolition Partner for sustainability</h2>
                 </div>
                 <div class="row">
                     <!--Process One Single Start-->
@@ -145,12 +127,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Seamless Supply Chain</h3>
+                            <h3 class="process-one__title">Eco-friendly Dismantling</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-crane"></span>
+                                    <span class="icon-recycle"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>We employ environmentally responsible methods to dismantle ships, minimizing pollution and maximizing the recycling of materials.</p>
                             </div>
                         </div>
                     </div>
@@ -162,12 +144,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Reliable Distribution</h3>
+                            <h3 class="process-one__title">Worker Safety</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-shipping"></span>
+                                    <span class="icon-helmet"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>Our stringent safety protocols and advanced equipment ensure the highest level of protection for all workers involved in the demolition process.</p>
                             </div>
                         </div>
                     </div>
@@ -176,12 +158,12 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="process-one__single">
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Fast and reliable logistics</h3>
+                            <h3 class="process-one__title">Material Recovery</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-postbox"></span>
+                                    <span class="icon-scrap"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>We optimize the recovery and recycling of valuable materials from ships, contributing to the circular economy and reducing waste.</p>
                             </div>
                         </div>
                     </div>
@@ -190,100 +172,83 @@
             </div>
         </section>
 
-
-
         <!--Project Details Start-->
         <section class="project-details">
             <div class="container">
                 <div class="row">
-
                     <div class="col-xl-4 col-lg-5">
                         <div class="services-details__left">
-
-
                             <div class="services-details__get-touch">
-                                <div class="services-details__get-touch-bg" style="background-image: url(assets/images/services/services-details-get-touch-bg-img.jpg);">
+                                <div class="services-details__get-touch-bg">
                                 </div>
-                                <h3 class="services-details__get-touch-title">GET TOUCH</h3>
-                                <p class="services-details__get-touch-sub-title">For fast service</p>
+                                <h3 class="services-details__get-touch-title">GET IN TOUCH</h3>
+                                <p class="services-details__get-touch-sub-title">For expert service</p>
                                 <div class="services-details__get-touch-icon">
                                     <span class="icon-call"></span>
                                 </div>
-                                <h3 class="services-details__get-touch-number"><a href="tel:888123456765">(+888) 123 456
-                                        765</a></h3>
+                               <h3 class="services-details__get-touch-number"><a href="tel:+91 9910302896">+91 9910302896</a></h3>
                             </div>
                         </div>
                     </div>
 
-
                     <div class="col-xl-8 col-lg-7">
                         <div class="services-details__right">
-                            <h3 class="services-details__title-1">Cultivate Success with Agriculture</h3>
-
-
-                            <p class="services-details__text-2">Logistics service involves the planning, implementation,
-                                and control of the efficient and effective transportation, storage, and distribution of
-                                goods and materials Logistics service involves the planning Logistics servi involves the
-                                planning, implementation, and control of the efficient and effective transportation</p>
+                            <h3 class="services-details__title-1">Sustainable Ship Demolition: Balancing Environment and Economy</h3>
+                            <p class="services-details__text-2">Responsible ship demolition involves the careful dismantling of end-of-life vessels to recover valuable materials while minimizing environmental impact and ensuring worker safety. Our services employ cutting-edge technologies and adhere to strict international regulations to provide efficient, safe, and environmentally sound ship recycling solutions.</p>
                             <div class="services-details__faq">
                                 <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
-                                    <div class="accrodion  active">
+                                    <div class="accrodion active">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>What is a ProActive Transport?</h4>
+                                            <h4>What is sustainable ship demolition?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Sustainable ship demolition is the process of dismantling end-of-life vessels in a manner that maximizes the recovery and recycling of materials while minimizing environmental impact and ensuring worker safety. It involves adherence to international regulations, use of advanced technologies, and implementation of strict safety and environmental protocols.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Swift Warehousing Solutions?</h4>
+                                            <h4>Why is sustainable ship demolition important?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Sustainable ship demolition is crucial for environmental protection, worker safety, and resource conservation. It prevents hazardous materials from polluting marine ecosystems, ensures safe working conditions for laborers, and recovers valuable materials for recycling, contributing to the circular economy and reducing the need for raw material extraction.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Efficient Freight Solutions?</h4>
+                                            <h4>How do you ensure compliance with international regulations?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>We strictly adhere to international regulations such as the Hong Kong Convention and the EU Ship Recycling Regulation. Our facilities are certified and regularly audited to ensure compliance. We maintain detailed documentation of our processes, conduct thorough inspections, and work closely with regulatory bodies to stay updated on and implement the latest standards in ship recycling.</p>
+                                            </div><!-- /.inner -->
+                                        </div>
+                                    </div>
+                                    <div class="accrodion">
+                                        <div class="accrodion-count"></div>
+                                        <div class="accrodion-title">
+                                            <h4>What technologies are used in your ship demolition process?</h4>
+                                        </div>
+                                        <div class="accrodion-content">
+                                            <div class="inner">
+                                                <p>We employ a range of advanced technologies in our ship demolition process, including specialized cutting equipment for efficient dismantling, advanced pollution control systems to prevent environmental contamination, state-of-the-art personal protective equipment for worker safety, and digital inventory management systems for tracking and optimizing material recovery. We also use 3D modeling and AI-assisted planning to optimize the demolition process and enhance safety.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </section>
     </div>
-    </section>
     <!--Project Details End-->
 
 
@@ -308,9 +273,10 @@
                             <span class="icon-phone"></span>
                         </div>
                         <div class="content">
-                            <p>Need help?</p>
-                            <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
-                        </div>
+                                <p>Need help?</p>
+                                <h3><a href="tel:+91 9910302896">+91 9910302896</a></h3>
+                            </div>
+
                     </div>
                 </div>
             </div>

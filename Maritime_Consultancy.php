@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Project Details || onpoint || onpoint HTML 5 Template </title>
+    <title> Maritime Consultancy Service</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -67,20 +67,13 @@
     <div class="page-wrapper">
         <?php include 'includes/header.php' ?>
 
-
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+            <div class="page-header__bg" style="background-image: url(assets/images/favicons/transport-logistics-concept.jpg);">
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <div class="thm-breadcrumb__box">
-                        <ul class="thm-breadcrumb list-unstyled">
-                            <li><a href="index-2.php">Home</a></li>
-                            <li><span class="icon-angle-left"></span></li>
-                            <li>Project_Details</li>
-                        </ul>
-                    </div>
+
                 </div>
             </div>
         </section>
@@ -89,8 +82,7 @@
         <section class="services-one">
             <div class="container">
                 <div class="section-title text-center">
-
-                    <h2 class="section-title__title">Why Partner with Us <br>For Your Shipping Needs?</h2>
+                    <h2 class="section-title__title">Why Partner with Us <br>For Your Maritime Consultancy Needs?</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-6 col-lg-6">
@@ -98,12 +90,13 @@
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
                                 </div>
-                                <h2 class="section-title__title">Delivering excellence every a time Express Logistics
+                                <h2 class="section-title__title">Excellence in Maritime Consultancy Services
                                 </h2>
                             </div>
-                            <p class="why-choose-one__text" style="text-align: justify;">Construction is an essential industry that involves building
-                                adesigning the an structures such as buildings roads, bridges Construction is an essent
-                                industry that involves building adesigning the a structures such </p>
+                            <p class="why-choose-one__text" style="text-align: justify;">Expert maritime consultancy is crucial for navigating the complex landscape of the maritime industry.
+                                Our services encompass strategic planning, regulatory compliance, operational optimization, and risk management to ensure your maritime operations are efficient, compliant, and competitive.</p>
+                            <p class="why-choose-one__text" style="text-align: justify;">By leveraging our extensive industry knowledge and cutting-edge analytical tools, our maritime consultancy services
+                                provide innovative solutions to your most pressing challenges. Partnering with us leads to improved operational efficiency, enhanced safety standards, and a stronger competitive position in the global maritime market.</p>
                             <div class="why-choose-one__btn-box">
                                 <a href="about.php" class="thm-btn why-choose-one__btn">Read more<span></span></a>
                             </div>
@@ -112,19 +105,11 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="why-choose-one__right">
                             <div class="why-choose-one__img wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <img src="assets/images/why-choose.jpg" alt="">
-                                <div class="why-choose-one__delivery-box">
-                                    <div class="icon">
-                                        <span class="icon-airplane"></span>
-                                    </div>
-                                    <p>2 dAYS<br> DELIVARY</p>
-                                </div>
+                                <img src="assets/images/why-choose.jpg" style="height: 400px;" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
-
-
             </div>
         </section>
         <!--Services One End-->
@@ -132,10 +117,7 @@
         <section class="process-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Work Process</span>
-                    </div>
-                    <h2 class="section-title__title">Your trusted logistics a <br> provider for success</h2>
+                    <h2 class="section-title__title">Your trusted <br> Maritime Consultancy Partner for success</h2>
                 </div>
                 <div class="row">
                     <!--Process One Single Start-->
@@ -145,12 +127,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Seamless Supply Chain</h3>
+                            <h3 class="process-one__title">Strategic Planning</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-crane"></span>
+                                    <span class="icon-ship"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>We provide comprehensive strategic planning services to optimize your maritime operations and enhance your competitive position in the global market.</p>
                             </div>
                         </div>
                     </div>
@@ -162,12 +144,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Reliable Distribution</h3>
+                            <h3 class="process-one__title">Regulatory Compliance</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-shipping"></span>
+                                    <span class="icon-wrench"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>Our expert team ensures your operations comply with all relevant international maritime regulations, minimizing risks and avoiding costly penalties.</p>
                             </div>
                         </div>
                     </div>
@@ -176,12 +158,12 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="process-one__single">
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Fast and reliable logistics</h3>
+                            <h3 class="process-one__title">Operational Optimization</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-postbox"></span>
+                                    <span class="icon-checkmark"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>We analyze your maritime operations to identify inefficiencies and implement solutions that improve performance, reduce costs, and enhance safety.</p>
                             </div>
                         </div>
                     </div>
@@ -190,100 +172,84 @@
             </div>
         </section>
 
-
-
         <!--Project Details Start-->
         <section class="project-details">
             <div class="container">
                 <div class="row">
-
                     <div class="col-xl-4 col-lg-5">
                         <div class="services-details__left">
-
-
                             <div class="services-details__get-touch">
-                                <div class="services-details__get-touch-bg" style="background-image: url(assets/images/services/services-details-get-touch-bg-img.jpg);">
+                                <div class="services-details__get-touch-bg">
                                 </div>
-                                <h3 class="services-details__get-touch-title">GET TOUCH</h3>
-                                <p class="services-details__get-touch-sub-title">For fast service</p>
+                                <h3 class="services-details__get-touch-title">GET IN TOUCH</h3>
+                                <p class="services-details__get-touch-sub-title">For expert advice</p>
                                 <div class="services-details__get-touch-icon">
                                     <span class="icon-call"></span>
                                 </div>
-                                <h3 class="services-details__get-touch-number"><a href="tel:888123456765">(+888) 123 456
-                                        765</a></h3>
+                               <h3 class="services-details__get-touch-number"><a href="tel:+91 9910302896">+91 9910302896</a></h3>
                             </div>
                         </div>
                     </div>
 
-
                     <div class="col-xl-8 col-lg-7">
                         <div class="services-details__right">
-                            <h3 class="services-details__title-1">Cultivate Success with Agriculture</h3>
-
-
-                            <p class="services-details__text-2">Logistics service involves the planning, implementation,
-                                and control of the efficient and effective transportation, storage, and distribution of
-                                goods and materials Logistics service involves the planning Logistics servi involves the
-                                planning, implementation, and control of the efficient and effective transportation</p>
+                            <h3 class="services-details__title-1">Navigating Maritime Challenges with Expert Consultancy</h3>
+                            <p class="services-details__text-2">Maritime consultancy provides invaluable expertise to navigate the complex and ever-changing maritime industry. Our services encompass a wide range of areas including strategic planning, regulatory compliance, operational optimization, and risk management. We leverage our deep industry knowledge and advanced analytical tools to provide tailored solutions that drive efficiency, ensure compliance, and boost competitiveness in the global maritime market.</p>
                             <div class="services-details__faq">
                                 <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
-                                    <div class="accrodion  active">
+                                    <div class="accrodion active">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>What is a ProActive Transport?</h4>
+                                            <h4>What is maritime consultancy?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Maritime consultancy involves providing expert advice and solutions to maritime businesses on various aspects of their operations. This includes strategic planning, regulatory compliance, operational efficiency, risk management, and technology implementation. Consultants leverage their industry expertise to help clients navigate challenges and capitalize on opportunities in the maritime sector.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Swift Warehousing Solutions?</h4>
+                                            <h4>Why is maritime consultancy important?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Maritime consultancy is crucial for staying competitive and compliant in the complex maritime industry. It helps businesses optimize their operations, reduce risks, ensure regulatory compliance, and adapt to technological advancements. Expert consultants bring valuable insights and innovative solutions that can lead to cost savings, improved efficiency, enhanced safety, and better strategic positioning in the global market.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Efficient Freight Solutions?</h4>
+                                            <h4>How do you ensure up-to-date knowledge of maritime regulations?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>We maintain close relationships with regulatory bodies, actively participate in industry forums, and continuously monitor global maritime developments. Our team of experts regularly attends training sessions and conferences to stay abreast of the latest regulatory changes. We also utilize advanced information systems to track and analyze regulatory updates, ensuring our clients always receive the most current and relevant advice.</p>
+                                            </div><!-- /.inner -->
+                                        </div>
+                                    </div>
+                                    <div class="accrodion">
+                                        <div class="accrodion-count"></div>
+                                        <div class="accrodion-title">
+                                            <h4>What analytical tools do you use in maritime consultancy?</h4>
+                                        </div>
+                                        <div class="accrodion-content">
+                                            <div class="inner">
+                                                <p>We employ a range of sophisticated analytical tools in our consultancy services. These include advanced data analytics platforms for performance benchmarking, predictive modeling software for risk assessment and strategic planning, simulation tools for operational optimization, and specialized maritime software for route planning and fleet management. We also leverage AI and machine learning algorithms to derive actionable insights from large datasets, enabling data-driven decision-making for our clients.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </section>
     </div>
-    </section>
+
     <!--Project Details End-->
 
 
@@ -308,9 +274,10 @@
                             <span class="icon-phone"></span>
                         </div>
                         <div class="content">
-                            <p>Need help?</p>
-                            <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
-                        </div>
+                                <p>Need help?</p>
+                                <h3><a href="tel:+91 9910302896">+91 9910302896</a></h3>
+                            </div>
+
                     </div>
                 </div>
             </div>

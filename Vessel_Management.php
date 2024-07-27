@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Project Details || onpoint || onpoint HTML 5 Template </title>
+    <title> Vessel Management service </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -70,17 +70,11 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+            <div class="page-header__bg" style="background-image: url(assets/images/favicons/transport-logistics-concept.jpg);">
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <div class="thm-breadcrumb__box">
-                        <ul class="thm-breadcrumb list-unstyled">
-                            <li><a href="index-2.php">Home</a></li>
-                            <li><span class="icon-angle-left"></span></li>
-                            <li>Project_Details</li>
-                        </ul>
-                    </div>
+
                 </div>
             </div>
         </section>
@@ -98,12 +92,13 @@
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
                                 </div>
-                                <h2 class="section-title__title">Delivering excellence every a time Express Logistics
+                                <h2 class="section-title__title">Delivering excellence every time Express Logistics
                                 </h2>
                             </div>
-                            <p class="why-choose-one__text" style="text-align: justify;">Construction is an essential industry that involves building
-                                adesigning the an structures such as buildings roads, bridges Construction is an essent
-                                industry that involves building adesigning the a structures such </p>
+                            <p class="why-choose-one__text" style="text-align: justify;">Effective vessel management is crucial for ensuring the smooth and efficient operation of maritime logistics.
+                                This involves the meticulous planning, coordination, and supervision of all activities related to a ship's operations, including navigation, cargo handling, crew management, and maintenance. </p>
+                            <p class="why-choose-one__text" style="text-align: justify;">By leveraging advanced technologies and best practices, vessel management services optimize operational efficiency,
+                                enhance safety, and ensure compliance with international maritime regulations. Partnering with a reliable vessel management provider can lead to significant cost savings, reduced downtime, and improved overall performance of maritime operations.</p>
                             <div class="why-choose-one__btn-box">
                                 <a href="about.php" class="thm-btn why-choose-one__btn">Read more<span></span></a>
                             </div>
@@ -112,13 +107,8 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="why-choose-one__right">
                             <div class="why-choose-one__img wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <img src="assets/images/why-choose.jpg" alt="">
-                                <div class="why-choose-one__delivery-box">
-                                    <div class="icon">
-                                        <span class="icon-airplane"></span>
-                                    </div>
-                                    <p>2 dAYS<br> DELIVARY</p>
-                                </div>
+                                <img src="assets/images/why-choose.jpg" style="height: 400px;" alt="">
+
                             </div>
                         </div>
                     </div>
@@ -132,10 +122,8 @@
         <section class="process-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Work Process</span>
-                    </div>
-                    <h2 class="section-title__title">Your trusted logistics a <br> provider for success</h2>
+
+                    <h2 class="section-title__title">Your trusted a <br> Vessel Management for success</h2>
                 </div>
                 <div class="row">
                     <!--Process One Single Start-->
@@ -145,12 +133,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Seamless Supply Chain</h3>
+                            <h3 class="process-one__title">Vessel Oversight</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-crane"></span>
+                                    <span class="icon-ship"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>We provide comprehensive oversight for all vessel operations, ensuring efficient navigation, cargo handling, and crew management.</p>
                             </div>
                         </div>
                     </div>
@@ -162,12 +150,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Reliable Distribution</h3>
+                            <h3 class="process-one__title">Efficient Maintenance</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-shipping"></span>
+                                    <span class="icon-wrench"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>Our proactive maintenance strategies ensure vessels remain in optimal condition, reducing downtime and repair costs.</p>
                             </div>
                         </div>
                     </div>
@@ -176,17 +164,18 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="process-one__single">
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Fast and reliable logistics</h3>
+                            <h3 class="process-one__title">Regulatory Compliance</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-postbox"></span>
+                                    <span class="icon-checkmark"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>We ensure all vessels comply with international maritime regulations, enhancing safety and operational reliability.</p>
                             </div>
                         </div>
                     </div>
                     <!--Process One Single End-->
                 </div>
+
             </div>
         </section>
 
@@ -202,15 +191,14 @@
 
 
                             <div class="services-details__get-touch">
-                                <div class="services-details__get-touch-bg" style="background-image: url(assets/images/services/services-details-get-touch-bg-img.jpg);">
+                                <div class="services-details__get-touch-bg">
                                 </div>
                                 <h3 class="services-details__get-touch-title">GET TOUCH</h3>
                                 <p class="services-details__get-touch-sub-title">For fast service</p>
                                 <div class="services-details__get-touch-icon">
                                     <span class="icon-call"></span>
                                 </div>
-                                <h3 class="services-details__get-touch-number"><a href="tel:888123456765">(+888) 123 456
-                                        765</a></h3>
+                               <h3 class="services-details__get-touch-number"><a href="tel:+91 9910302896">+91 9910302896</a></h3>
                             </div>
                         </div>
                     </div>
@@ -218,72 +206,65 @@
 
                     <div class="col-xl-8 col-lg-7">
                         <div class="services-details__right">
-                            <h3 class="services-details__title-1">Cultivate Success with Agriculture</h3>
-
-
-                            <p class="services-details__text-2">Logistics service involves the planning, implementation,
-                                and control of the efficient and effective transportation, storage, and distribution of
-                                goods and materials Logistics service involves the planning Logistics servi involves the
-                                planning, implementation, and control of the efficient and effective transportation</p>
+                            <h3 class="services-details__title-1">Optimizing Maritime Operations with Vessel Management</h3>
+                            <p class="services-details__text-2">Effective vessel management involves the meticulous planning, coordination, and supervision of all activities related to a ship's operations, including navigation, cargo handling, crew management, and maintenance. Our services ensure the smooth and efficient operation of your maritime logistics, leveraging advanced technologies and best practices to enhance safety and compliance.</p>
                             <div class="services-details__faq">
                                 <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
-                                    <div class="accrodion  active">
+                                    <div class="accrodion active">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>What is a ProActive Transport?</h4>
+                                            <h4>What is Vessel Management?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Vessel management involves the comprehensive oversight of a ship's operations, ensuring efficient navigation, cargo handling, crew management, and maintenance. This ensures safety, compliance, and optimal performance.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Swift Warehousing Solutions?</h4>
+                                            <h4>Why is vessel management important?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Effective vessel management is crucial for minimizing operational costs, reducing downtime, and ensuring the safety and compliance of maritime operations. It enhances overall performance and reliability.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Efficient Freight Solutions?</h4>
+                                            <h4>How do you ensure compliance with international maritime regulations?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>We stay updated with the latest international maritime regulations and standards, implementing best practices and advanced technologies to ensure all our managed vessels meet and exceed compliance requirements.</p>
+                                            </div><!-- /.inner -->
+                                        </div>
+                                    </div>
+                                    <div class="accrodion">
+                                        <div class="accrodion-count"></div>
+                                        <div class="accrodion-title">
+                                            <h4>What technologies are used in vessel management?</h4>
+                                        </div>
+                                        <div class="accrodion-content">
+                                            <div class="inner">
+                                                <p>We utilize advanced technologies such as real-time tracking systems, predictive maintenance software, and automated compliance monitoring tools to optimize vessel operations and ensure safety and efficiency.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
+        </section>
+    
+    
     </div>
-    </section>
     <!--Project Details End-->
 
 
@@ -308,9 +289,10 @@
                             <span class="icon-phone"></span>
                         </div>
                         <div class="content">
-                            <p>Need help?</p>
-                            <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
-                        </div>
+                                <p>Need help?</p>
+                                <h3><a href="tel:+91 9910302896">+91 9910302896</a></h3>
+                            </div>
+
                     </div>
                 </div>
             </div>
@@ -323,7 +305,7 @@
     <!--Site Footer End-->
 
 
-    </div><!-- /.page-wrapper -->
+    <!-- /.page-wrapper -->
 
 
 

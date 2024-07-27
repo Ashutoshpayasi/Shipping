@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Project Details || onpoint || onpoint HTML 5 Template </title>
+    <title> Crew Management Service</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -67,20 +67,13 @@
     <div class="page-wrapper">
         <?php include 'includes/header.php' ?>
 
-
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+            <div class="page-header__bg" style="background-image: url(assets/images/favicons/transport-logistics-concept.jpg);">
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <div class="thm-breadcrumb__box">
-                        <ul class="thm-breadcrumb list-unstyled">
-                            <li><a href="index-2.php">Home</a></li>
-                            <li><span class="icon-angle-left"></span></li>
-                            <li>Project_Details</li>
-                        </ul>
-                    </div>
+
                 </div>
             </div>
         </section>
@@ -89,8 +82,7 @@
         <section class="services-one">
             <div class="container">
                 <div class="section-title text-center">
-
-                    <h2 class="section-title__title">Why Partner with Us <br>For Your Shipping Needs?</h2>
+                    <h2 class="section-title__title">Why Partner with Us <br>For Your Crew Management Needs?</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-6 col-lg-6">
@@ -98,12 +90,13 @@
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
                                 </div>
-                                <h2 class="section-title__title">Delivering excellence every a time Express Logistics
+                                <h2 class="section-title__title">Excellence in Maritime Crew Management
                                 </h2>
                             </div>
-                            <p class="why-choose-one__text" style="text-align: justify;">Construction is an essential industry that involves building
-                                adesigning the an structures such as buildings roads, bridges Construction is an essent
-                                industry that involves building adesigning the a structures such </p>
+                            <p class="why-choose-one__text" style="text-align: justify;">Effective crew management is crucial for ensuring the smooth and efficient operation of maritime vessels.
+                                Our process involves meticulous planning, recruitment, training, and ongoing support for seafarers, ensuring compliance with international maritime regulations.</p>
+                            <p class="why-choose-one__text" style="text-align: justify;">By leveraging advanced technologies and best practices, our crew management services optimize operational efficiency,
+                                enhance safety, and ensure compliance with international maritime standards. Partnering with us leads to a highly skilled and motivated crew, reduced operational risks, and improved overall performance of your maritime operations.</p>
                             <div class="why-choose-one__btn-box">
                                 <a href="about.php" class="thm-btn why-choose-one__btn">Read more<span></span></a>
                             </div>
@@ -112,19 +105,11 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="why-choose-one__right">
                             <div class="why-choose-one__img wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <img src="assets/images/why-choose.jpg" alt="">
-                                <div class="why-choose-one__delivery-box">
-                                    <div class="icon">
-                                        <span class="icon-airplane"></span>
-                                    </div>
-                                    <p>2 dAYS<br> DELIVARY</p>
-                                </div>
+                                <img src="assets/images/why-choose.jpg" style="height: 400px;" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
-
-
             </div>
         </section>
         <!--Services One End-->
@@ -132,10 +117,7 @@
         <section class="process-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Work Process</span>
-                    </div>
-                    <h2 class="section-title__title">Your trusted logistics a <br> provider for success</h2>
+                    <h2 class="section-title__title">Your trusted <br> Crew Management Partner for success</h2>
                 </div>
                 <div class="row">
                     <!--Process One Single Start-->
@@ -145,12 +127,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Seamless Supply Chain</h3>
+                            <h3 class="process-one__title">Skilled Recruitment</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-crane"></span>
+                                    <span class="icon-ship"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>We source and recruit highly qualified seafarers, ensuring your vessels are staffed with competent and experienced professionals.</p>
                             </div>
                         </div>
                     </div>
@@ -162,12 +144,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Reliable Distribution</h3>
+                            <h3 class="process-one__title">Continuous Training</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-shipping"></span>
+                                    <span class="icon-wrench"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>Our comprehensive training programs ensure your crew stays up-to-date with the latest maritime regulations and best practices.</p>
                             </div>
                         </div>
                     </div>
@@ -176,12 +158,12 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="process-one__single">
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Fast and reliable logistics</h3>
+                            <h3 class="process-one__title">Crew Welfare</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-postbox"></span>
+                                    <span class="icon-checkmark"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>We prioritize the well-being of your crew, managing all aspects of their welfare to ensure high morale and job satisfaction.</p>
                             </div>
                         </div>
                     </div>
@@ -190,98 +172,82 @@
             </div>
         </section>
 
-
-
         <!--Project Details Start-->
         <section class="project-details">
             <div class="container">
                 <div class="row">
-
                     <div class="col-xl-4 col-lg-5">
                         <div class="services-details__left">
-
-
                             <div class="services-details__get-touch">
-                                <div class="services-details__get-touch-bg" style="background-image: url(assets/images/services/services-details-get-touch-bg-img.jpg);">
+                                <div class="services-details__get-touch-bg">
                                 </div>
-                                <h3 class="services-details__get-touch-title">GET TOUCH</h3>
-                                <p class="services-details__get-touch-sub-title">For fast service</p>
+                                <h3 class="services-details__get-touch-title">GET IN TOUCH</h3>
+                                <p class="services-details__get-touch-sub-title">For expert service</p>
                                 <div class="services-details__get-touch-icon">
                                     <span class="icon-call"></span>
                                 </div>
-                                <h3 class="services-details__get-touch-number"><a href="tel:888123456765">(+888) 123 456
-                                        765</a></h3>
+                               <h3 class="services-details__get-touch-number"><a href="tel:+91 9910302896">+91 9910302896</a></h3>
                             </div>
                         </div>
                     </div>
 
-
                     <div class="col-xl-8 col-lg-7">
                         <div class="services-details__right">
-                            <h3 class="services-details__title-1">Cultivate Success with Agriculture</h3>
-
-
-                            <p class="services-details__text-2">Logistics service involves the planning, implementation,
-                                and control of the efficient and effective transportation, storage, and distribution of
-                                goods and materials Logistics service involves the planning Logistics servi involves the
-                                planning, implementation, and control of the efficient and effective transportation</p>
+                            <h3 class="services-details__title-1">Optimizing Maritime Operations with Expert Crew Management</h3>
+                            <p class="services-details__text-2">Effective crew management is the cornerstone of successful maritime operations. Our comprehensive services cover all aspects of crew management, from recruitment and training to ongoing support and welfare. We ensure that your vessels are staffed with skilled professionals who are well-equipped to handle the challenges of modern maritime operations.</p>
                             <div class="services-details__faq">
                                 <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
-                                    <div class="accrodion  active">
+                                    <div class="accrodion active">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>What is a ProActive Transport?</h4>
+                                            <h4>What does crew management involve?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Crew management encompasses all aspects of personnel management in the maritime industry, including recruitment, training, deployment, payroll administration, travel arrangements, and ensuring compliance with international maritime regulations. It also involves managing crew welfare, career development, and maintaining all necessary certifications and documentation.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Swift Warehousing Solutions?</h4>
+                                            <h4>Why is professional crew management important?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Professional crew management is crucial for ensuring the safety, efficiency, and compliance of maritime operations. It helps in maintaining a pool of skilled and motivated seafarers, reduces operational risks, ensures compliance with complex international regulations, and ultimately contributes to the overall performance and profitability of maritime ventures.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Efficient Freight Solutions?</h4>
+                                            <h4>How do you ensure crew competency and compliance?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>We ensure crew competency and compliance through rigorous recruitment processes, comprehensive training programs, and continuous assessment. Our team stays updated with the latest maritime regulations and industry standards, ensuring all crew members receive appropriate training and hold valid certifications. We also conduct regular performance evaluations and provide ongoing professional development opportunities.</p>
+                                            </div><!-- /.inner -->
+                                        </div>
+                                    </div>
+                                    <div class="accrodion">
+                                        <div class="accrodion-count"></div>
+                                        <div class="accrodion-title">
+                                            <h4>What technologies do you use in crew management?</h4>
+                                        </div>
+                                        <div class="accrodion-content">
+                                            <div class="inner">
+                                                <p>We leverage advanced technologies to streamline crew management processes. This includes sophisticated crew management software for efficient scheduling and deployment, online training platforms for continuous skill development, digital document management systems for easy access to certifications and records, and communication tools to maintain constant contact with deployed crew members. We also use data analytics to optimize crew performance and identify areas for improvement.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </section>
     </div>
     </section>
     <!--Project Details End-->
@@ -308,9 +274,10 @@
                             <span class="icon-phone"></span>
                         </div>
                         <div class="content">
-                            <p>Need help?</p>
-                            <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
-                        </div>
+                                <p>Need help?</p>
+                                <h3><a href="tel:+91 9910302896">+91 9910302896</a></h3>
+                            </div>
+
                     </div>
                 </div>
             </div>

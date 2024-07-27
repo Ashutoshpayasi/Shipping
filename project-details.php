@@ -209,8 +209,7 @@
                                 <div class="services-details__get-touch-icon">
                                     <span class="icon-call"></span>
                                 </div>
-                                <h3 class="services-details__get-touch-number"><a href="tel:888123456765">(+888) 123 456
-                                        765</a></h3>
+                               <h3 class="services-details__get-touch-number"><a href="tel:+91 9910302896">+91 9910302896</a></h3>
                             </div>
                         </div>
                     </div>
@@ -308,9 +307,10 @@
                             <span class="icon-phone"></span>
                         </div>
                         <div class="content">
-                            <p>Need help?</p>
-                            <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
-                        </div>
+                                <p>Need help?</p>
+                                <h3><a href="tel:+91 9910302896">+91 9910302896</a></h3>
+                            </div>
+
                     </div>
                 </div>
             </div>

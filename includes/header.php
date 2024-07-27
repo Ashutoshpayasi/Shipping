@@ -78,27 +78,25 @@
                                 <li class="dropdown">
                                     <a href="#">Services</a>
                                     <ul>
-                                        <li><a href="#">Sea Freight Services</a></li>
-                                        <li><a href="#">Vessel Management</a></li>
-                                        <li><a href="#">Logistics Solutions</a></li>
+                                        <li><a href="Sea_Freight_Services.php">Sea Freight Services</a></li>
+                                        <li><a href="Vessel_Management.php">Vessel Management</a></li>
+                                        <li><a href="Logistics_Solutions.php">Logistics Solutions</a></li>
                                         <li class="dropdown">
                                             <a href="#">Other Services</a>
                                             <ul>
-                                                <li><a href="#">Ship Demolition</a></li>
-                                                <li><a href="#">Crew Management</a></li>
-                                                <li><a href="#">Shipboard Audits</a></li>
-                                                <li><a href="#">Maritime Consultancy</a></li>
-                                                <li><a href="#">Training & Education</a></li>
-                                                <li><a href="#">Flag Documentation</a></li>
-                                                <li><a href="#">Maritime Travel Services</a></li>
-                                                <li><a href="#">QHSSE</a></li>
-                                                <li><a href="#">Ship Building Supervision</a></li>
+                                                <li><a href="Ship_Demolition.php">Ship Demolition</a></li>
+                                                <li><a href="Crew_Management.php">Crew Management</a></li>
+                                                <li><a href="Shipboard_Audits.php">Shipboard Audits</a></li>
+                                                <li><a href="Maritime_Consultancy.php">Maritime Consultancy</a></li>
+                                                <li><a href="Maritime_Travel_Services.php">Maritime Travel Services</a></li>
+                                                <li><a href="Ship_Building_Supervision.php">Ship Building Supervision</a></li>
                                             </ul>
                                         </li>
                                     </ul>
                                 </li>
 
-                                <li class="dropdown">
+
+                                <!-- <li class="dropdown">
                                     <a href="#">Pages</a>
                                     <ul>
                                         <li><a href="#">Fleet</a></li>
@@ -108,13 +106,13 @@
                                         <li><a href="#">Terms of Services</a></li>
                                         <li><a href="#">Site Map</a></li>
                                     </ul>
-                                </li>
+                                </li> -->
 
 
-                                <li class="">
+                                <!-- <li class="">
                                     <a href="#">Testimonial</a>
 
-                                </li>
+                                </li> -->
                                 <li class="">
                                     <a href="#">Blog</a>
 

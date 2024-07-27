@@ -342,10 +342,8 @@
         <section class="process-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Work Process</span>
-                    </div>
-                    <h2 class="section-title__title">Your trusted logistics a <br> provider for success</h2>
+                  
+                    <h2 class="section-title__title">Your Trusted Sea Freight Provider for <br>Global Success</h2>
                 </div>
                 <div class="row">
                     <!--Process One Single Start-->
@@ -355,12 +353,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Seamless Supply Chain</h3>
+                            <h3 class="process-one__title">Seamless Ocean Supply Chain</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-crane"></span>
+                                    <span class="icon-ship"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>Our sea freight services ensure the efficient and seamless implementation of your global supply chain.</p>
                             </div>
                         </div>
                     </div>
@@ -372,12 +370,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Reliable Distribution</h3>
+                            <h3 class="process-one__title">Reliable Ocean Distribution</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-shipping"></span>
+                                    <span class="icon-container"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>Our reliable distribution network ensures your sea freight reaches its destination safely and on time.</p>
                             </div>
                         </div>
                     </div>
@@ -386,12 +384,12 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="process-one__single">
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Fast and reliable logistics</h3>
+                            <h3 class="process-one__title">Fast and Reliable Sea Logistics</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-postbox"></span>
+                                    <span class="icon-anchor"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>Experience fast and reliable logistics with our comprehensive sea freight solutions.</p>
                             </div>
                         </div>
                     </div>
@@ -565,7 +563,7 @@
                                     <h2 class="section-title__title">Seamless logistics for your logo</h2>
                                 </div>
                                 <div class="project-two__btn-box">
-                                    <a href="project-details.php" class="thm-btn project-two__btn">more
+                                    <a href="index.php" class="thm-btn project-two__btn">more
                                         project<span></span></a>
                                 </div>
                             </div>
@@ -579,7 +577,7 @@
                                 <img src="assets/images/project/project-2-1.jpg" alt="">
                                 <div class="project-two__content">
                                     <p class="project-two__sub-title">Express Logistics</p>
-                                    <h3 class="project-two__title"><a href="project-details.php">Delivering success
+                                    <h3 class="project-two__title"><a href="index.php">Delivering success
                                             through logistics</a>
                                     </h3>
                                 </div>
@@ -594,7 +592,7 @@
                                 <img src="assets/images/project/project-2-2.jpg" alt="">
                                 <div class="project-two__content">
                                     <p class="project-two__sub-title">Express Logistics</p>
-                                    <h3 class="project-two__title"><a href="project-details.php">Delivering success
+                                    <h3 class="project-two__title"><a href="index.php">Delivering success
                                             through logistics</a>
                                     </h3>
                                 </div>
@@ -609,7 +607,7 @@
                                 <img src="assets/images/project/project-2-3.jpg" alt="">
                                 <div class="project-two__content">
                                     <p class="project-two__sub-title">Express Logistics</p>
-                                    <h3 class="project-two__title"><a href="project-details.php">Delivering success
+                                    <h3 class="project-two__title"><a href="index.php">Delivering success
                                             through logistics</a>
                                     </h3>
                                 </div>
@@ -624,7 +622,7 @@
                                 <img src="assets/images/project/project-2-4.jpg" alt="">
                                 <div class="project-two__content">
                                     <p class="project-two__sub-title">Express Logistics</p>
-                                    <h3 class="project-two__title"><a href="project-details.php">Delivering success
+                                    <h3 class="project-two__title"><a href="index.php">Delivering success
                                             through logistics</a>
                                     </h3>
                                 </div>
@@ -639,7 +637,7 @@
                                 <img src="assets/images/project/project-2-5.jpg" alt="">
                                 <div class="project-two__content">
                                     <p class="project-two__sub-title">Express Logistics</p>
-                                    <h3 class="project-two__title"><a href="project-details.php">Delivering success
+                                    <h3 class="project-two__title"><a href="index.php">Delivering success
                                             through logistics</a>
                                     </h3>
                                 </div>
@@ -731,7 +729,7 @@
         <!--Team One End-->
 
         <!--Why Are We Start-->
-        >
+        
         <!--Why Are We End-->
 
         <!--FAQ One Start-->
@@ -847,87 +845,7 @@
         <!--Testimonial One End-->
 
         <!--Blog One Start-->
-        <section class="blog-one">
-            <div class="container">
-                <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Latests Blog</span>
-                    </div>
-                    <h2 class="section-title__title">Streamlining your supply<br> chain processes</h2>
-                </div>
-                <div class="row">
-                    <!--Blog One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-                        <div class="blog-one__single">
-                            <div class="blog-one__img-box">
-                                <div class="blog-one__img">
-                                    <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                </div>
-                                <div class="blog-one__date">
-                                    <p>24 March</p>
-                                </div>
-                            </div>
-                            <div class="blog-one__content">
-                                <h3 class="blog-one__title"><a href="blog-details.php">Your trusted logistics provider
-                                        Express Logistics</a></h3>
-                                <p class="blog-one__text">It is a long established fact that a reader will williljl be
-                                    distracted </p>
-                                <div class="blog-one__read-more">
-                                    <a href="blog-details.php">Read More<span class="icon-arrow-right"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Blog One Single End-->
-                    <!--Blog One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="blog-one__single">
-                            <div class="blog-one__img-box">
-                                <div class="blog-one__img">
-                                    <img src="assets/images/blog/blog-1-2.jpg" alt="">
-                                </div>
-                                <div class="blog-one__date">
-                                    <p>24 March</p>
-                                </div>
-                            </div>
-                            <div class="blog-one__content">
-                                <h3 class="blog-one__title"><a href="blog-details.php">Logistics expertise for your the
-                                        competitive advantage</a></h3>
-                                <p class="blog-one__text">It is a long established fact that a reader will williljl be
-                                    distracted </p>
-                                <div class="blog-one__read-more">
-                                    <a href="blog-details.php">Read More<span class="icon-arrow-right"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Blog One Single End-->
-                    <!--Blog One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="300ms">
-                        <div class="blog-one__single">
-                            <div class="blog-one__img-box">
-                                <div class="blog-one__img">
-                                    <img src="assets/images/blog/blog-1-3.jpg" alt="">
-                                </div>
-                                <div class="blog-one__date">
-                                    <p>24 March</p>
-                                </div>
-                            </div>
-                            <div class="blog-one__content">
-                                <h3 class="blog-one__title"><a href="blog-details.php">Streamlining your supply chain
-                                        processes Express </a></h3>
-                                <p class="blog-one__text">It is a long established fact that a reader will williljl be
-                                    distracted </p>
-                                <div class="blog-one__read-more">
-                                    <a href="blog-details.php">Read More<span class="icon-arrow-right"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Blog One Single End-->
-                </div>
-            </div>
-        </section>
+       
         <!--Blog One End-->
 
         <!--CTA One Start-->
@@ -951,8 +869,9 @@
                             </div>
                             <div class="content">
                                 <p>Need help?</p>
-                                <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
+                                <h3><a href="tel:+91 9910302896">+91 9910302896</a></h3>
                             </div>
+
                         </div>
                     </div>
                 </div>

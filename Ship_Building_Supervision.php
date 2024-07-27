@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Project Details || onpoint || onpoint HTML 5 Template </title>
+    <title> Ship Building SuperVission Service</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -64,46 +64,38 @@
 
 
 
+
     <div class="page-wrapper">
         <?php include 'includes/header.php' ?>
 
-
-        <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+            <div class="page-header__bg" style="background-image: url(assets/images/favicons/transport-logistics-concept.jpg);">
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <div class="thm-breadcrumb__box">
-                        <ul class="thm-breadcrumb list-unstyled">
-                            <li><a href="index-2.php">Home</a></li>
-                            <li><span class="icon-angle-left"></span></li>
-                            <li>Project_Details</li>
-                        </ul>
-                    </div>
+
                 </div>
             </div>
         </section>
-        <!--Page Header End-->
 
         <section class="services-one">
             <div class="container">
                 <div class="section-title text-center">
-
-                    <h2 class="section-title__title">Why Partner with Us <br>For Your Shipping Needs?</h2>
+                    <h2 class="section-title__title">Why Choose Us <br>For Your Ship Building Supervision?</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-6 col-lg-6">
                         <div class="why-choose-one__left">
                             <div class="section-title text-left">
-                                <div class="section-title__tagline-box">
-                                </div>
-                                <h2 class="section-title__title">Delivering excellence every a time Express Logistics
-                                </h2>
+                                <div class="section-title__tagline-box"></div>
+                                <h2 class="section-title__title">Expert Ship Building Supervision</h2>
                             </div>
-                            <p class="why-choose-one__text" style="text-align: justify;">Construction is an essential industry that involves building
-                                adesigning the an structures such as buildings roads, bridges Construction is an essent
-                                industry that involves building adesigning the a structures such </p>
+                            <p class="why-choose-one__text" style="text-align: justify;">
+                                Our ship building supervision services ensure that your project is executed efficiently, safely, and in compliance with industry standards. With our expertise, you can have confidence in the quality and timely delivery of your vessel.
+                            </p>
+                            <p class="why-choose-one__text" style="text-align: justify;">
+                                Our team of experienced engineers and inspectors provides comprehensive supervision throughout the entire ship building process, from design to completion. We work closely with shipyards, owners, and classification societies to ensure that the project meets all requirements and specifications.
+                            </p>
                             <div class="why-choose-one__btn-box">
                                 <a href="about.php" class="thm-btn why-choose-one__btn">Read more<span></span></a>
                             </div>
@@ -112,87 +104,14 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="why-choose-one__right">
                             <div class="why-choose-one__img wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <img src="assets/images/why-choose.jpg" alt="">
-                                <div class="why-choose-one__delivery-box">
-                                    <div class="icon">
-                                        <span class="icon-airplane"></span>
-                                    </div>
-                                    <p>2 dAYS<br> DELIVARY</p>
-                                </div>
+                                <img src="assets/images/why-choose.jpg" style="height: 400px;" alt="Ship Building Supervision">
                             </div>
                         </div>
                     </div>
-                </div>
-
-
-            </div>
-        </section>
-        <!--Services One End-->
-
-        <section class="process-one">
-            <div class="container">
-                <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Work Process</span>
-                    </div>
-                    <h2 class="section-title__title">Your trusted logistics a <br> provider for success</h2>
-                </div>
-                <div class="row">
-                    <!--Process One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="process-one__single">
-                            <div class="process-one__shape-1">
-                                <img src="assets/images/shapes/process-one-shape-1.png" alt="">
-                            </div>
-                            <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Seamless Supply Chain</h3>
-                            <div class="process-one__icon-and-text">
-                                <div class="icon">
-                                    <span class="icon-crane"></span>
-                                </div>
-                                <p>Logistic service in implementation and control the efficient</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Process One Single End-->
-                    <!--Process One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="process-one__single">
-                            <div class="process-one__shape-1">
-                                <img src="assets/images/shapes/process-one-shape-1.png" alt="">
-                            </div>
-                            <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Reliable Distribution</h3>
-                            <div class="process-one__icon-and-text">
-                                <div class="icon">
-                                    <span class="icon-shipping"></span>
-                                </div>
-                                <p>Logistic service in implementation and control the efficient</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Process One Single End-->
-                    <!--Process One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="process-one__single">
-                            <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Fast and reliable logistics</h3>
-                            <div class="process-one__icon-and-text">
-                                <div class="icon">
-                                    <span class="icon-postbox"></span>
-                                </div>
-                                <p>Logistic service in implementation and control the efficient</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Process One Single End-->
                 </div>
             </div>
         </section>
 
-
-
-        <!--Project Details Start-->
         <section class="project-details">
             <div class="container">
                 <div class="row">
@@ -202,15 +121,14 @@
 
 
                             <div class="services-details__get-touch">
-                                <div class="services-details__get-touch-bg" style="background-image: url(assets/images/services/services-details-get-touch-bg-img.jpg);">
+                                <div class="services-details__get-touch-bg">
                                 </div>
-                                <h3 class="services-details__get-touch-title">GET TOUCH</h3>
-                                <p class="services-details__get-touch-sub-title">For fast service</p>
+                                <h3 class="services-details__get-touch-title">CONTACT US</h3>
+                                <p class="services-details__get-touch-sub-title">Start Your Project</p>
                                 <div class="services-details__get-touch-icon">
                                     <span class="icon-call"></span>
                                 </div>
-                                <h3 class="services-details__get-touch-number"><a href="tel:888123456765">(+888) 123 456
-                                        765</a></h3>
+                                <h3 class="services-details__get-touch-number"><a href="tel:888123456765">(+888) 123 456 765</a></h3>
                             </div>
                         </div>
                     </div>
@@ -218,72 +136,64 @@
 
                     <div class="col-xl-8 col-lg-7">
                         <div class="services-details__right">
-                            <h3 class="services-details__title-1">Cultivate Success with Agriculture</h3>
-
-
-                            <p class="services-details__text-2">Logistics service involves the planning, implementation,
-                                and control of the efficient and effective transportation, storage, and distribution of
-                                goods and materials Logistics service involves the planning Logistics servi involves the
-                                planning, implementation, and control of the efficient and effective transportation</p>
+                            <h3 class="services-details__title-1">Ensuring Excellence in Shipbuilding Supervision</h3>
+                            <p class="services-details__text-2">Shipbuilding supervision is essential for maintaining high standards and ensuring the successful completion of maritime vessels. Our expert team oversees every aspect of the shipbuilding process, from initial design and construction to final inspection and delivery, ensuring that each vessel meets stringent quality and safety standards.</p>
                             <div class="services-details__faq">
                                 <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
-                                    <div class="accrodion  active">
+                                    <div class="accrodion active">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>What is a ProActive Transport?</h4>
+                                            <h4>What is the role of shipbuilding supervision?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Shipbuilding supervision involves overseeing the entire shipbuilding process to ensure that the construction adheres to specified designs, quality standards, and safety regulations. This includes monitoring the construction phases, conducting inspections, and ensuring compliance with maritime laws and regulations.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Swift Warehousing Solutions?</h4>
+                                            <h4>Why is shipbuilding supervision important?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Effective shipbuilding supervision is crucial for ensuring the safety, quality, and longevity of the vessel. It helps identify and mitigate potential issues during the construction process, ensuring the final product meets all required specifications and regulatory standards.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Efficient Freight Solutions?</h4>
+                                            <h4>How do you ensure compliance with maritime regulations during shipbuilding?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Our team stays updated with the latest maritime regulations and standards. We implement thorough inspection and monitoring processes throughout the shipbuilding stages, ensuring all construction activities adhere to international and local maritime laws.</p>
+                                            </div><!-- /.inner -->
+                                        </div>
+                                    </div>
+                                    <div class="accrodion">
+                                        <div class="accrodion-count"></div>
+                                        <div class="accrodion-title">
+                                            <h4>What technologies are used in shipbuilding supervision?</h4>
+                                        </div>
+                                        <div class="accrodion-content">
+                                            <div class="inner">
+                                                <p>We utilize advanced technologies such as 3D modeling, digital twin technology, and real-time monitoring systems to enhance the accuracy and efficiency of the shipbuilding supervision process. These technologies help ensure that every aspect of the construction meets the highest standards of quality and precision.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
+        </section>
     </div>
-    </section>
+
     <!--Project Details End-->
 
 
@@ -308,9 +218,10 @@
                             <span class="icon-phone"></span>
                         </div>
                         <div class="content">
-                            <p>Need help?</p>
-                            <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
-                        </div>
+                                <p>Need help?</p>
+                                <h3><a href="tel:+91 9910302896">+91 9910302896</a></h3>
+                            </div>
+
                     </div>
                 </div>
             </div>

@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Project Details || onpoint || onpoint HTML 5 Template </title>
+    <title> Maritime Travel Service </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -67,20 +67,13 @@
     <div class="page-wrapper">
         <?php include 'includes/header.php' ?>
 
-
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+            <div class="page-header__bg" style="background-image: url(assets/images/favicons/transport-logistics-concept.jpg);">
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <div class="thm-breadcrumb__box">
-                        <ul class="thm-breadcrumb list-unstyled">
-                            <li><a href="index-2.php">Home</a></li>
-                            <li><span class="icon-angle-left"></span></li>
-                            <li>Project_Details</li>
-                        </ul>
-                    </div>
+
                 </div>
             </div>
         </section>
@@ -89,8 +82,7 @@
         <section class="services-one">
             <div class="container">
                 <div class="section-title text-center">
-
-                    <h2 class="section-title__title">Why Partner with Us <br>For Your Shipping Needs?</h2>
+                    <h2 class="section-title__title">Why Choose Us <br>For Your Maritime Travel?</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-6 col-lg-6">
@@ -98,33 +90,24 @@
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
                                 </div>
-                                <h2 class="section-title__title">Delivering excellence every a time Express Logistics
+                                <h2 class="section-title__title">Unforgettable Maritime Experiences
                                 </h2>
                             </div>
-                            <p class="why-choose-one__text" style="text-align: justify;">Construction is an essential industry that involves building
-                                adesigning the an structures such as buildings roads, bridges Construction is an essent
-                                industry that involves building adesigning the a structures such </p>
+                            <p class="why-choose-one__text" style="text-align: justify;">Maritime travel offers a unique and enchanting way to explore the world's waterways and coastal destinations. Our services ensure an unforgettable journey, combining luxury, adventure, and the timeless allure of the sea.</p>
+                            <p class="why-choose-one__text" style="text-align: justify;">From intimate yacht charters to grand ocean liners, we provide a range of maritime travel options to suit every preference. Our expert team handles all aspects of your voyage, including itinerary planning, onboard experiences, and shore excursions, ensuring a seamless and extraordinary travel experience.</p>
                             <div class="why-choose-one__btn-box">
-                                <a href="about.php" class="thm-btn why-choose-one__btn">Read more<span></span></a>
+                                <a href="about.php" class="thm-btn why-choose-one__btn">Discover More<span></span></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="why-choose-one__right">
                             <div class="why-choose-one__img wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <img src="assets/images/why-choose.jpg" alt="">
-                                <div class="why-choose-one__delivery-box">
-                                    <div class="icon">
-                                        <span class="icon-airplane"></span>
-                                    </div>
-                                    <p>2 dAYS<br> DELIVARY</p>
-                                </div>
+                                <img src="assets/images/why-choose.jpg" style="height: 400px;" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
-
-
             </div>
         </section>
         <!--Services One End-->
@@ -132,10 +115,7 @@
         <section class="process-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Work Process</span>
-                    </div>
-                    <h2 class="section-title__title">Your trusted logistics a <br> provider for success</h2>
+                    <h2 class="section-title__title">Your Gateway to <br> Extraordinary Maritime Adventures</h2>
                 </div>
                 <div class="row">
                     <!--Process One Single Start-->
@@ -145,12 +125,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Seamless Supply Chain</h3>
+                            <h3 class="process-one__title">Tailored Itineraries</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-crane"></span>
+                                    <span class="icon-map"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>We craft bespoke maritime journeys, ensuring each voyage is perfectly aligned with your preferences and dreams.</p>
                             </div>
                         </div>
                     </div>
@@ -162,12 +142,12 @@
                                 <img src="assets/images/shapes/process-one-shape-1.png" alt="">
                             </div>
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Reliable Distribution</h3>
+                            <h3 class="process-one__title">Luxury Onboard</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-shipping"></span>
+                                    <span class="icon-ship"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>Experience unparalleled comfort and elegance with our selection of premium vessels and world-class amenities.</p>
                             </div>
                         </div>
                     </div>
@@ -176,12 +156,12 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="process-one__single">
                             <div class="process-one__count"></div>
-                            <h3 class="process-one__title">Fast and reliable logistics</h3>
+                            <h3 class="process-one__title">Exclusive Excursions</h3>
                             <div class="process-one__icon-and-text">
                                 <div class="icon">
-                                    <span class="icon-postbox"></span>
+                                    <span class="icon-binoculars"></span>
                                 </div>
-                                <p>Logistic service in implementation and control the efficient</p>
+                                <p>Dive into local cultures and hidden gems with our curated selection of unique shore excursions and activities.</p>
                             </div>
                         </div>
                     </div>
@@ -190,100 +170,84 @@
             </div>
         </section>
 
-
-
         <!--Project Details Start-->
         <section class="project-details">
             <div class="container">
                 <div class="row">
-
                     <div class="col-xl-4 col-lg-5">
                         <div class="services-details__left">
-
-
                             <div class="services-details__get-touch">
-                                <div class="services-details__get-touch-bg" style="background-image: url(assets/images/services/services-details-get-touch-bg-img.jpg);">
+                                <div class="services-details__get-touch-bg">
                                 </div>
-                                <h3 class="services-details__get-touch-title">GET TOUCH</h3>
-                                <p class="services-details__get-touch-sub-title">For fast service</p>
+                                <h3 class="services-details__get-touch-title">CONTACT US</h3>
+                                <p class="services-details__get-touch-sub-title">Start Your Journey</p>
                                 <div class="services-details__get-touch-icon">
                                     <span class="icon-call"></span>
                                 </div>
-                                <h3 class="services-details__get-touch-number"><a href="tel:888123456765">(+888) 123 456
-                                        765</a></h3>
+                               <h3 class="services-details__get-touch-number"><a href="tel:+91 9910302896">+91 9910302896</a></h3>
                             </div>
                         </div>
                     </div>
 
-
                     <div class="col-xl-8 col-lg-7">
                         <div class="services-details__right">
-                            <h3 class="services-details__title-1">Cultivate Success with Agriculture</h3>
-
-
-                            <p class="services-details__text-2">Logistics service involves the planning, implementation,
-                                and control of the efficient and effective transportation, storage, and distribution of
-                                goods and materials Logistics service involves the planning Logistics servi involves the
-                                planning, implementation, and control of the efficient and effective transportation</p>
+                            <h3 class="services-details__title-1">Embark on Unforgettable Maritime Journeys</h3>
+                            <p class="services-details__text-2">Maritime travel offers a unique blend of adventure, luxury, and discovery. Whether you're dreaming of a tranquil Caribbean cruise, an expedition to the Arctic, or a yacht tour of the Mediterranean, our Maritime Travel Services ensure every aspect of your journey is meticulously planned and flawlessly executed.</p>
                             <div class="services-details__faq">
                                 <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
-                                    <div class="accrodion  active">
+                                    <div class="accrodion active">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>What is a ProActive Transport?</h4>
+                                            <h4>What types of maritime travel do you offer?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>We offer a wide range of maritime travel options, including luxury cruises, private yacht charters, river cruises, expedition voyages, and sailing adventures. Our services cater to various preferences, from intimate getaways to grand voyages across the world's oceans.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Swift Warehousing Solutions?</h4>
+                                            <h4>How do you ensure a personalized travel experience?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Our team of travel experts works closely with you to understand your preferences, interests, and travel style. We then craft a bespoke itinerary that includes carefully selected vessels, destinations, activities, and experiences tailored to your desires, ensuring a truly personalized maritime journey.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                     <div class="accrodion">
                                         <div class="accrodion-count"></div>
                                         <div class="accrodion-title">
-                                            <h4>How do I set up a Efficient Freight Solutions?</h4>
+                                            <h4>What amenities can I expect on board?</h4>
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>It is a long established fact that a reader will be distracted by the
-                                                    readable content of a p looking at its a layout. The point of using
-                                                    Lorem Ipsum is that it has a more-or-less normal distribution of a
-                                                    letter as opposed to a using 'Content here, content here.It is a
-                                                    long
-                                                </p>
+                                                <p>Onboard amenities vary depending on the type of maritime travel you choose, but often include luxurious accommodations, gourmet dining options, spa and wellness facilities, entertainment venues, and a range of activities. For private charters, we can arrange for specific amenities and services to meet your exact requirements.</p>
+                                            </div><!-- /.inner -->
+                                        </div>
+                                    </div>
+                                    <div class="accrodion">
+                                        <div class="accrodion-count"></div>
+                                        <div class="accrodion-title">
+                                            <h4>How do you handle shore excursions and activities?</h4>
+                                        </div>
+                                        <div class="accrodion-content">
+                                            <div class="inner">
+                                                <p>We curate a selection of unique and immersive shore excursions at each destination, ranging from cultural tours and adventure activities to exclusive experiences. Our team handles all the logistics, ensuring seamless transitions from ship to shore. We can also arrange private tours and bespoke experiences tailored to your interests.</p>
                                             </div><!-- /.inner -->
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </section>
     </div>
-    </section>
+    
     <!--Project Details End-->
 
 
@@ -308,9 +272,10 @@
                             <span class="icon-phone"></span>
                         </div>
                         <div class="content">
-                            <p>Need help?</p>
-                            <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
-                        </div>
+                                <p>Need help?</p>
+                                <h3><a href="tel:+91 9910302896">+91 9910302896</a></h3>
+                            </div>
+
                     </div>
                 </div>
             </div>

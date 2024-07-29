@@ -46,19 +46,22 @@
                             </div>
                             <ul class="footer-widget__company-list list-unstyled">
                                 <li>
-                                    <a href="#">About Us</a>
+                                    <a href="about.php">About Us</a>
                                 </li>
-                                <li>
-                                    <a href="#">FAQ</a>
-                                </li>
-                                <li>
-                                    <a href="#">Testimonial</a>
-                                </li>
+
+
                                 <li>
                                     <a href="#">Service</a>
                                 </li>
                                 <li>
-                                    <a href="#">Blog And News</a>
+                                    <a href="contact.php">Contact Us</a>
+                                </li>
+
+                                
+                                <li><a href="terms_and_condition.php">Trams & Condition</a></li>
+                                <li><a href="privacy_policy.php">Privacy Policy</a></li>
+                                <li>
+                                    <a href="site-map.php">Site Map</a>
                                 </li>
                             </ul>
                         </div>
@@ -113,13 +116,9 @@
     </div>
     <div class="site-footer__bottom">
         <div class="container">
-            <div class="site-footer__bottom-inner">
+            <div class="site-footer__bottom-inner" style="text-align: center;">
                 <p class="site-footer__bottom-text">© Sreyasi Marine 2024 | All Rights Reserved</p>
-                <ul class="list-unstyled site-footer__bottom-menu">
-                    <li><a href="#">Trams & Condition</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">Contact Us</a></li>
-                </ul>
+
             </div>
         </div>
     </div>

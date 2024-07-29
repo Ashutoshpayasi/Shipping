@@ -4555,9 +4555,9 @@ ul {
 
 .site-footer__bottom-inner {
   position: relative;
-  display: flex;
+  /* display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-between; */
   flex-wrap: wrap;
   padding: 31px 30px 31px;
   background-color: rgba(var(--onpoint-white-rgb), 0.03);

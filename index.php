@@ -262,7 +262,7 @@
             <div class="container">
                 <div class="section-title text-center">
 
-                    <h2 class="section-title__title">Why Partner with Us <br>For Your Shipping Needs?</h2>
+                    <h2 class="section-title__title">For Your Shipping Needs?</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-6">

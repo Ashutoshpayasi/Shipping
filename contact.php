@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Contact || onpoint || onpoint HTML 5 Template </title>
+    <title> Contact  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -73,7 +73,7 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+            <div class="page-header__bg" style="background-image: url(assets/images/favicons/transport-logistics-concept.jpg);">
             </div>
             <div class="container">
                 <div class="page-header__inner">
@@ -107,8 +107,8 @@
                             </div>
                             <div class="content">
                                 <h3>Lets Talk us</h3>
-                                <p>Phone number: <a href="tel:32566800890">+32566 - 800 - 890</a></p>
-                                <p>Fax: <a href="tel:123458963007">1234 -58963 - 007</a></p>
+                                <p>Phone number: <a href="tel:+91 9910302896">+91 9910-302-896</a></p>
+                                <p>Fax: <a href="tel:+91 9910302896">+91 9910302896</a></p>
                             </div>
                         </li>
                         <li>
@@ -117,7 +117,7 @@
                             </div>
                             <div class="content">
                                 <h3>Address</h3>
-                                <p>Dhaka 102, 8000 sent behaibior<br> road 45 house of street</p>
+                                <p>D-425, Third Floor, Palam Extn,<br> Sector-7 Dwarka, Delhi 110075</p>
                             </div>
                         </li>
                         <li>
@@ -126,8 +126,7 @@
                             </div>
                             <div class="content">
                                 <h3>Send us email</h3>
-                                <p><a href="mailto:nafizislam1223@gmail.com">nafizislam1223@gmail.com</a></p>
-                                <p><a href="mailto:demo23gmail.com">demo23gmail.com</a></p>
+                                <p><a href="mailto:sreyasimarine@gmail.com ,">sreyasimarine@gmail.com </a></p>
                             </div>
                         </li>
                     </ul>

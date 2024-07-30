@@ -109,7 +109,7 @@
                                                 </div>
                                                 <div class="main-slider__call-number">
                                                     <p>Need help?</p>
-                                                    <h5><a href="tel:307555-0133">(307) 555-0133</a></h5>
+                                                    <h5><a href="tel:+91 9910302896">+91 9910302896</a></h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -150,7 +150,8 @@
                                                 </div>
                                                 <div class="main-slider__call-number">
                                                     <p>Need help?</p>
-                                                    <h5><a href="tel:307555-0133">(307) 555-0133</a></h5>
+                                                    <h5><a href="tel:+91 9910302896">
+                                                            +91 9910302896</a></h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -191,7 +192,8 @@
                                                 </div>
                                                 <div class="main-slider__call-number">
                                                     <p>Need help?</p>
-                                                    <h5><a href="tel:307555-0133">(307) 555-0133</a></h5>
+                                                    <h5><a href="tel:+91 9910302896">
+                                                            +91 9910302896</a></h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -211,7 +213,7 @@
         <!--Main Slider End-->
 
 
-    
+
         <!--Services One Start-->
         <section class="services-one">
             <div class="container">
@@ -241,7 +243,7 @@
                         <div class="why-choose-one__right">
                             <div class="why-choose-one__img wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <img src="assets/images/why-choose.jpg" alt="">
-                               
+
                             </div>
                         </div>
                     </div>
@@ -337,7 +339,7 @@
         <section class="process-one">
             <div class="container">
                 <div class="section-title text-center">
-                  
+
                     <h2 class="section-title__title">Your Trusted Sea Freight Provider for <br>Global Success</h2>
                 </div>
                 <div class="row">
@@ -718,13 +720,13 @@
         <hr class="section-divider">
 
         <!--Team One Start-->
-        
 
-      
+
+
         <!--Team One End-->
 
         <!--Why Are We Start-->
-        
+
         <!--Why Are We End-->
 
         <!--FAQ One Start-->
@@ -836,11 +838,11 @@
         <!--FAQ One End-->
 
         <!--Testimonial One Start-->
-      
+
         <!--Testimonial One End-->
 
         <!--Blog One Start-->
-       
+
         <!--Blog One End-->
 
         <!--CTA One Start-->

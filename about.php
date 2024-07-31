@@ -51,7 +51,7 @@
 
 
 
-    
+
     <!-- /.preloader -->
 
 
@@ -126,8 +126,11 @@
         <!--Page Header End-->
 
         <!--About One Start-->
-        <section class="about-one about-two">
+        <section class="about-one">
             <div class="container">
+                <div class="section-title text-center">
+
+                </div>
                 <div class="row">
                     <div class="col-xl-6">
                         <div class="about-one__left">
@@ -135,10 +138,9 @@
                                 <div class="section-title__tagline-box">
                                     <span class="section-title__tagline">About Us</span>
                                 </div>
-                                <h2 class="section-title__title">Seamless logistics for your <br> business needs</h2>
+                                <h2 class="section-title__title">Expert ship management for <br> your maritime needs</h2>
                             </div>
-                            <p class="about-one__text">Construction is an essential industry that involves building
-                                adesigning the a structures such as buildings roads, bridges</p>
+                            <p class="about-one__text">Ship management is a crucial service that involves overseeing all aspects of vessel operations, ensuring safety, efficiency, and compliance with international maritime regulations.</p>
                             <div class="about-one__list-box">
                                 <div class="about-one__shape-1">
                                     <img src="assets/images/shapes/about-one-shape-1.png" alt="">
@@ -148,24 +150,24 @@
                                         <div class="about-one__icon">
                                             <span class="icon-conveyor-1"></span>
                                         </div>
-                                        <h3>Delivering successthe <br> through logistics</h3>
+                                        <h3>Delivering excellence in <br> maritime operations</h3>
                                     </li>
                                     <li>
                                         <div class="about-one__icon">
                                             <span class="icon-clock"></span>
                                         </div>
-                                        <h3>Logistics expertise for your<br> competitive </h3>
+                                        <h3>Maritime expertise for your <br> fleet's success</h3>
                                     </li>
                                     <li>
                                         <div class="about-one__icon">
                                             <span class="icon-fragile"></span>
                                         </div>
-                                        <h3>Streamliningm supply chain<br> processes</h3>
+                                        <h3>Ensuring safety and efficiency <br> in vessel management</h3>
                                     </li>
                                 </ul>
                             </div>
                             <div class="about-one__btn-box">
-                                <a href="about.php" class="thm-btn about-one__btn">Read more<span></span></a>
+                                <a href="about.php" class="thm-btn about-one__btn">Learn more<span></span></a>
                             </div>
                         </div>
                     </div>
@@ -200,6 +202,7 @@
         <!--About One End-->
 
         <!--Counter One Start-->
+
         <section class="counter-one">
             <div class="container">
                 <div class="row">
@@ -221,14 +224,12 @@
                     <div class="col-xl-7">
                         <div class="counter-one__right wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="section-title text-left">
-                                <div class="section-title__tagline-box">
-                                    <span class="section-title__tagline">Our Features</span>
+                                <div class="section-titletagline-box">
+                                    <span class="section-titletagline">Our Features</span>
                                 </div>
-                                <h2 class="section-title__title">Simplifying your logistics of <br>the challenges</h2>
+                                <h2 class="section-titletitle">Optimizing your maritime <br>operations and challenges</h2>
                             </div>
-                            <p class="counter-one__right-text">Logistic service involves the planning, implementation,
-                                and control of the efficient and effective movement and storage of goods and materials.
-                            </p>
+                            <p class="counter-oneright-text">Ship management services encompass the planning, implementation, and control of efficient and effective vessel operations, crew management, and regulatory compliance to ensure smooth sailing for your fleet.</p>
                             <ul class="counter-one__count-list list-unstyled">
                                 <li>
                                     <div class="counter-one__icon-and-count">
@@ -280,12 +281,6 @@
 
         <section class="why-are-we">
             <div class="container">
-                <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline"></span>
-                    </div>
-                    <h2 class="section-title__title"> <br> </h2>
-                </div>
                 <div class="row">
                     <div class="col-xl-4">
                         <div class="why-are-we__left">
@@ -298,10 +293,10 @@
                         <div class="why-are-we__right">
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
-                                    <span class="section-title__tagline">Why are we best</span>
+                                    <h3 class="why-choose-two__big-text">Since 1920</h3>
+                                    <span class="section-title__tagline">Why we're industry leaders</span>
                                 </div>
-                                <h2 class="section-title__title">Efficiency at its best with our<br> logistics services
-                                </h2>
+                                <h2 class="section-title__title">Excellence in ship management<br> for your maritime success</h2>
                             </div>
                             <ul class="why-are-we__list list-unstyled">
                                 <li>
@@ -309,11 +304,11 @@
                                         <span class="icon-arrow-down-left"></span>
                                     </div>
                                     <div class="icon">
-                                        <span class="icon-location why-are-we__location"></span>
+                                        <span class="icon-location why-are-welocation"></span>
                                     </div>
                                     <div class="content">
-                                        <h3>Real Time tracking</h3>
-                                        <p>Logistic service involves the ntation and control </p>
+                                        <h3>Advanced Fleet Management</h3>
+                                        <p>State-of-the-art systems for efficient vessel operations and maintenance</p>
                                     </div>
                                 </li>
                                 <li>
@@ -321,11 +316,11 @@
                                         <span class="icon-arrow-down-right"></span>
                                     </div>
                                     <div class="icon">
-                                        <span class="icon-shopping-cart why-are-we__cart"></span>
+                                        <span class="icon-shopping-cart why-are-wecart"></span>
                                     </div>
                                     <div class="content">
-                                        <h3>On time delivary</h3>
-                                        <p>Logistic service involves the ntation and control </p>
+                                        <h3>Expert Crew Management</h3>
+                                        <p>Highly skilled maritime professionals ensure smooth vessel operations</p>
                                     </div>
                                 </li>
                                 <li>
@@ -333,19 +328,11 @@
                                         <span class="icon-call why-are-we__call"></span>
                                     </div>
                                     <div class="content">
-                                        <h3>24/7 online support</h3>
-                                        <p>Logistic service involves the ntation and control </p>
+                                        <h3>24/7 Global Support</h3>
+                                        <p>Round-the-clock assistance for all your ship management needs</p>
                                     </div>
                                 </li>
                             </ul>
-                            <div class="why-are-we__img-2">
-                                <img src="assets/images/resources/why-are-we-img-2.jpg" alt="">
-                                <div class="why-are-we__year wow fadeInLeft" data-wow-delay="300ms">
-                                    <h3>Since 1920</h3>
-                                    <p>Logistic service involves the planning, implementation, and control of the
-                                        efficient and effective movement and storage</p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -422,7 +409,7 @@
 
 
     <!-- template js -->
-        <script src="assets/js/onpoint.js"></script>
+    <script src="assets/js/onpoint.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

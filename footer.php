@@ -19,7 +19,7 @@
                                         <span class="icon-envolop email-icon"></span>
                                     </div>
                                     <p><a href="sreyasimarine@gmail.com">sreyasimarine@gmail.com
-                                            ,</a></p>
+                                        </a></p>
                                 </li>
                                 <li>
                                     <div class="icon">
@@ -57,7 +57,7 @@
                                     <a href="contact.php">Contact Us</a>
                                 </li>
 
-                                
+
                                 <li><a href="terms_and_condition.php">Trams & Condition</a></li>
                                 <li><a href="privacy_policy.php">Privacy Policy</a></li>
                                 <li>

@@ -1097,3 +1097,85 @@
 
 
 })(jQuery);
+
+
+// form 
+
+$(document).ready(function() {
+    function handleFormSubmit(formId) {
+        $(formId).on('submit', function(e) {
+            e.preventDefault();
+
+            $.ajax({
+                url: 'process_form.php',
+                type: 'POST',
+                data: $(this).serialize(),
+                success: function(response) {
+                    Swal.fire({
+                        icon: 'success',
+                        title: 'Success',
+                        text: 'Your form has been submitted successfully!',
+                    });
+                },
+                error: function() {
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'Oops...',
+                        text: 'Something went wrong!',
+                    });
+                }
+            });
+        });
+    }
+
+    // Apply form submission handler to each form
+    handleFormSubmit('#contactForm1');
+    handleFormSubmit('#contactForm2');
+    handleFormSubmit('#contactForm3');
+});
+
+
+// modal
+
+$(document).ready(function() {
+  // Modal functionality
+  function setupModal(modalId, openBtnId, closeBtnClass) {
+      var modal = document.getElementById(modalId);
+      var openModalBtn = document.getElementById(openBtnId);
+      var closeModalBtn = modal.getElementsByClassName(closeBtnClass)[0];
+
+      function openModal() {
+          modal.style.display = "block";
+      }
+
+      function closeModal() {
+          modal.style.display = "none";
+      }
+
+      // Open the modal
+      openModalBtn.onclick = openModal;
+
+      // Close the modal
+      closeModalBtn.onclick = closeModal;
+
+      // Close the modal when clicking outside of the modal content
+      window.onclick = function(event) {
+          if (event.target == modal) {
+              closeModal();
+          }
+      }
+
+      // Close the modal when pressing the escape key
+      document.onkeydown = function(event) {
+          if (event.key === "Escape") {
+              closeModal();
+          }
+      }
+  }
+
+  // Initialize modals
+  setupModal("myModal", "openModalBtn", "close");
+  // Add more modals here if needed
+  // setupModal("anotherModalId", "anotherOpenModalBtn", "anotherCloseClass");
+});
+

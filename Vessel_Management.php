@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from themehealer.com/onpoint/project-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 11 Jul 2024 05:00:56 GMT -->
 
 <head>
     <meta charset="UTF-8" />
@@ -13,7 +12,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/android-icon-48x48.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets\images\favicons\android-icon-48x48.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="onpoint HTML 5 Template " />
+    <meta name="description" content="Sreyasi  Marine" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -40,6 +39,8 @@
     <link rel="stylesheet" href="assets/vendors/bootstrap-select/css/bootstrap-select.min.css" />
     <link rel="stylesheet" href="assets/vendors/nice-select/nice-select.css" />
     <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+    <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/onpoint.css" />
@@ -50,9 +51,7 @@
 
 
 
-    <div class="preloader">
-        <div class="preloader__image"></div>
-    </div>
+    
     <!-- /.preloader -->
 
 
@@ -65,7 +64,7 @@
 
 
     <div class="page-wrapper">
-        <?php include 'includes/header.php' ?>
+        <?php include 'header.php' ?>
 
 
         <!--Page Header Start-->
@@ -301,7 +300,7 @@
     <!--CTA One End-->
 
     <!--Site Footer Start-->
-    <?php include 'includes/footer.php' ?>
+    <?php include 'footer.php' ?>
     <!--Site Footer End-->
 
 
@@ -338,10 +337,13 @@
 
 
     <!-- template js -->
-    <script src="assets/js/onpoint.js"></script>
+        <script src="assets/js/onpoint.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 </body>
 
 
-<!-- Mirrored from themehealer.com/onpoint/project-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 11 Jul 2024 05:01:00 GMT -->
 
 </html>

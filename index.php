@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from themehealer.com/onpoint/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 11 Jul 2024 04:58:07 GMT -->
 
 <head>
     <meta charset="UTF-8" />
@@ -13,7 +12,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/android-icon-48x48.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets\images\favicons\android-icon-48x48.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="onpoint HTML 5 Template " />
+    <meta name="description" content="Sreyasi  Marine" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -23,8 +22,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
-
-
 
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -40,6 +37,7 @@
     <link rel="stylesheet" href="assets/vendors/bootstrap-select/css/bootstrap-select.min.css" />
     <link rel="stylesheet" href="assets/vendors/nice-select/nice-select.css" />
     <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/onpoint.css" />
@@ -55,7 +53,7 @@
 
     <div class="page-wrapper">
 
-        <?php include 'includes/header.php'; ?>
+        <?php include 'header.php'; ?>
 
 
 
@@ -539,6 +537,190 @@
         </section>
 
 
+        <hr class="section-divider">
+
+        <!--Brand One Start-->
+        <section class="brand-one">
+            <div class="container">
+                <h3 class="brand-one__text count-box">Join the <span class="count-text" data-stop="150" data-speed="1500">00</span><span>+</span> companies trusting maxline company</h3>
+                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100,
+                "slidesPerView": 5,
+                "loop": true,
+                "navigation": {
+                    "nextEl": "#brand-one__swiper-button-next",
+                    "prevEl": "#brand-one__swiper-button-prev"
+                },
+                "autoplay": { "delay": 5000 },
+                "breakpoints": {
+                    "0": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 1
+                    },
+                    "375": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 1
+                    },
+                    "575": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 2
+                    },
+                    "767": {
+                        "spaceBetween": 50,
+                        "slidesPerView": 3
+                    },
+                    "991": {
+                        "spaceBetween": 50,
+                        "slidesPerView": 3
+                    },
+                    "1199": {
+                        "spaceBetween": 100,
+                        "slidesPerView": 3
+                    },
+                    "1199": {
+                        "spaceBetween": 100,
+                        "slidesPerView": 3
+                    }
+                }}'>
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\logo1.svg" alt="">
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\logo.gif" alt="">
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\farseas-logo-color.png" alt="">
+                        </div><!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\logo1.svg" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\logo.gif" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets\images\favicons\farseas-logo-color.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Brand One End-->
+
+
+        <hr class="section-divider">
+
+        <!--FAQ One Start-->
+        <section class="faq-one">
+            <div class="faq-one__bg-color"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="faq-one__left">
+                            <div class="section-title text-left">
+                                <div class="section-title__tagline-box">
+                                    <span class="section-title__tagline">FAQ</span>
+                                </div>
+                                <h2 class="section-title__title">Do You Have Any
+                                    <br> Question Please?
+                                </h2>
+                            </div>
+                            <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
+                                <div class="accrodion  active">
+                                    <div class="accrodion-title">
+                                        <h4>How can I track my shipment?</h4>
+                                    </div>
+                                    <div class="accrodion-content">
+                                        <div class="inner">
+                                            <p>It is a long established fact that a reader will be distr acted bioiiy
+                                                the real ism dablea content of a page when looking at its layout </p>
+                                        </div><!-- /.inner -->
+                                    </div>
+                                </div>
+                                <div class="accrodion">
+                                    <div class="accrodion-title">
+                                        <h4>What is the average delivery time?</h4>
+                                    </div>
+                                    <div class="accrodion-content">
+                                        <div class="inner">
+                                            <p>It is a long established fact that a reader will be distr acted bioiiy
+                                                the real ism dablea content of a page when looking at its layout </p>
+                                        </div><!-- /.inner -->
+                                    </div>
+                                </div>
+                                <div class="accrodion">
+                                    <div class="accrodion-title">
+                                        <h4>Do you offer Smooth Running Supply?</h4>
+                                    </div>
+                                    <div class="accrodion-content">
+                                        <div class="inner">
+                                            <p>It is a long established fact that a reader will be distr acted bioiiy
+                                                the real ism dablea content of a page when looking at its layout </p>
+                                        </div><!-- /.inner -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="faq-one__right wow fadeInRight" data-wow-delay="300ms">
+                            <h3 class="faq-one__from-title">Our One-Stop Car Repair Shop</h3>
+
+                            <form id="contactForm1" class="contact-form-validated faq-one__form" method="post" novalidate="novalidate">
+                                <div class="row">
+                                    <div class="col-xl-6 col-lg-6">
+                                        <div class="faq-one__input-box">
+                                            <input type="text" name="name" placeholder="Your Name" required="">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6">
+                                        <div class="faq-one__input-box">
+                                            <input type="email" name="email" placeholder="Your Email" required="">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6">
+                                        <div class="faq-one__input-box">
+                                            <input type="text" name="phone" placeholder="Phone Number" required="">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6">
+                                        <div class="faq-one__input-box">
+                                            <div class="select-box">
+                                                <select name="service" class="selectmenu wide">
+                                                    <option selected="selected">Choose an Option</option>
+                                                    <option>Sea Freight Services</option>
+                                                    <option>Vessel Management</option>
+                                                    <option>Logistics Solutions</option>
+                                                    <option>Ship Demolition</option>
+                                                    <option>Crew Management</option>
+                                                    <option>Shipboard Audits</option>
+                                                    <option>Maritime Consultancy</option>
+                                                    <option>Maritime Travel Services</option>
+                                                    <option>Ship Building Supervision</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-12">
+                                        <div class="faq-one__input-box text-message-box">
+                                            <textarea name="message" placeholder="Message here.."></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-12">
+                                        <div class="faq-one__btn-box">
+                                            <button type="submit" class="thm-btn faq-one__btn">Submit Now<span></span></button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--FAQ One End-->
+
+
         <!--Project One Start-->
         <section class="project-one">
             <div class="container">
@@ -647,204 +829,6 @@
         </section>
         <!--Project One End-->
 
-        <hr class="section-divider">
-
-        <!--Brand One Start-->
-        <section class="brand-one">
-            <div class="container">
-                <h3 class="brand-one__text count-box">Join the <span class="count-text" data-stop="150" data-speed="1500">00</span><span>+</span> companies trusting maxline company</h3>
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100,
-                "slidesPerView": 5,
-                "loop": true,
-                "navigation": {
-                    "nextEl": "#brand-one__swiper-button-next",
-                    "prevEl": "#brand-one__swiper-button-prev"
-                },
-                "autoplay": { "delay": 5000 },
-                "breakpoints": {
-                    "0": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 1
-                    },
-                    "375": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 1
-                    },
-                    "575": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 2
-                    },
-                    "767": {
-                        "spaceBetween": 50,
-                        "slidesPerView": 3
-                    },
-                    "991": {
-                        "spaceBetween": 50,
-                        "slidesPerView": 3
-                    },
-                    "1199": {
-                        "spaceBetween": 100,
-                        "slidesPerView": 3
-                    },
-                    "1199": {
-                        "spaceBetween": 100,
-                        "slidesPerView": 3
-                    }
-                }}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="assets\images\favicons\logo1.svg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets\images\favicons\logo.gif" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets\images\favicons\farseas-logo-color.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets\images\favicons\logo1.svg" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="assets\images\favicons\logo.gif" alt="">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="assets\images\favicons\farseas-logo-color.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Brand One End-->
-
-
-        <hr class="section-divider">
-
-        <!--Team One Start-->
-
-
-
-        <!--Team One End-->
-
-        <!--Why Are We Start-->
-
-        <!--Why Are We End-->
-
-        <!--FAQ One Start-->
-        <section class="faq-one">
-            <div class="faq-one__bg-color"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="faq-one__left">
-                            <div class="section-title text-left">
-                                <div class="section-title__tagline-box">
-                                    <span class="section-title__tagline">FAQ</span>
-                                </div>
-                                <h2 class="section-title__title">Do You Have Any
-                                    <br> Question Please?
-                                </h2>
-                            </div>
-                            <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
-                                <div class="accrodion  active">
-                                    <div class="accrodion-title">
-                                        <h4>How can I track my shipment?</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>It is a long established fact that a reader will be distr acted bioiiy
-                                                the real ism dablea content of a page when looking at its layout </p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <h4>What is the average delivery time?</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>It is a long established fact that a reader will be distr acted bioiiy
-                                                the real ism dablea content of a page when looking at its layout </p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <h4>Do you offer Smooth Running Supply?</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>It is a long established fact that a reader will be distr acted bioiiy
-                                                the real ism dablea content of a page when looking at its layout </p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="faq-one__right wow fadeInRight" data-wow-delay="300ms">
-                            <h3 class="faq-one__from-title">Our One-Stop Car Repair Shop</h3>
-                            <form class="contact-form-validated faq-one__form" action="https://themehealer.com/onpoint/assets/inc/sendemail.php" method="post" novalidate="novalidate">
-                                <div class="row">
-                                    <div class="col-xl-6 col-lg-6">
-                                        <div class="faq-one__input-box">
-                                            <input type="text" name="name" placeholder="Your Name" required="">
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6 col-lg-6">
-                                        <div class="faq-one__input-box">
-                                            <input type="email" name="email" placeholder="Your Email" required="">
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6 col-lg-6">
-                                        <div class="faq-one__input-box">
-                                            <input type="text" name="text" placeholder="Phone Number" required="">
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6 col-lg-6">
-                                        <div class="faq-one__input-box">
-                                            <div class="select-box">
-                                                <select class="selectmenu wide">
-                                                    <option selected="selected">Choose a Option</option>
-                                                    <option>Type Of Service 01</option>
-                                                    <option>Type Of Service 02</option>
-                                                    <option>Type Of Service 03</option>
-                                                    <option>Type Of Service 04</option>
-                                                    <option>Type Of Service 05</option>
-                                                    <option>Type Of Service 06</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-12">
-                                        <div class="faq-one__input-box text-message-box">
-                                            <textarea name="message" placeholder="Message here.."></textarea>
-                                        </div>
-                                    </div>
-                                    <div class=" col-xl-12">
-                                        <div class="faq-one__btn-box">
-                                            <button type="submit" class="thm-btn faq-one__btn">Submit
-                                                Now<span></span></button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </form>
-                            <div class="result"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--FAQ One End-->
-
-        <!--Testimonial One Start-->
-
-        <!--Testimonial One End-->
-
-        <!--Blog One Start-->
-
-        <!--Blog One End-->
-
         <!--CTA One Start-->
         <section class="cta-one">
             <div class="container">
@@ -877,7 +861,7 @@
         <!--CTA One End-->
 
         <!--Site Footer Start-->
-        <?php include 'includes/footer.php'; ?>
+        <?php include 'footer.php'; ?>
         <!--Site Footer End-->
 
 
@@ -912,14 +896,13 @@
     <script src="assets/vendors/marquee/marquee.min.js"></script>
     <script src="assets/vendors/sidebar-content/jquery-sidebar-content.js"></script>
 
-
-
-
     <!-- template js -->
-    <script src="assets/js/onpoint.js"></script>
+        <script src="assets/js/onpoint.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </body>
 
 
-<!-- Mirrored from themehealer.com/onpoint/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 11 Jul 2024 04:59:52 GMT -->
 
 </html>

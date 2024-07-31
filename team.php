@@ -2,17 +2,16 @@
 <html lang="en">
 
 
-<!-- Mirrored from themehealer.com/onpoint/team.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 11 Jul 2024 05:00:48 GMT -->
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Team || onpoint || onpoint HTML 5 Template </title>
+    <title> Team | Sreyasi Marine </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/android-icon-48x48.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets\images\favicons\android-icon-48x48.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="onpoint HTML 5 Template " />
+    <meta name="description" content="Sreyasi  Marine" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -41,6 +40,8 @@
     <link rel="stylesheet" href="assets/vendors/bootstrap-select/css/bootstrap-select.min.css" />
     <link rel="stylesheet" href="assets/vendors/nice-select/nice-select.css" />
     <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+    <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/onpoint.css" />
@@ -51,9 +52,7 @@
 
 
 
-    <div class="preloader">
-        <div class="preloader__image"></div>
-    </div>
+    
     <!-- /.preloader -->
 
 
@@ -604,9 +603,12 @@
 
 
     <!-- template js -->
-    <script src="assets/js/onpoint.js"></script>
+        <script src="assets/js/onpoint.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 </body>
 
 
-<!-- Mirrored from themehealer.com/onpoint/team.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 11 Jul 2024 05:00:51 GMT -->
 </html>

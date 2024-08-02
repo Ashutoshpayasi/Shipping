@@ -68,7 +68,7 @@
         <?php include 'header.php' ?>
 
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/favicons/transport-logistics-concept.jpg);">
+            <div class="page-header__bg" style="background-image: url(assets/images/service/audits-banner.png);">
             </div>
             <div class="container">
                 <div class="page-header__inner">

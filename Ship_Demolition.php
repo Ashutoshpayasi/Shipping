@@ -68,7 +68,7 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/favicons/transport-logistics-concept.jpg);">
+            <div class="page-header__bg" style="background-image: url(assets/images/service/marina-with-yachts-boats-old-town-nesebar_627829-7541.jpg);">
             </div>
             <div class="container">
                 <div class="page-header__inner">

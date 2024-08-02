@@ -753,7 +753,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="500ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/project-2-2.jpg" alt="">
+                                <img src="assets/images/service/marine time travel.jpg" alt="">
                                 <div class="project-two__content">
                                     <p class="project-two__sub-title">Express Logistics</p>
                                     <h3 class="project-two__title"><a href="index.php">Delivering success
@@ -768,7 +768,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="700ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/project-2-3.jpg" alt="">
+                                <img src="assets/images/favicons/transport-logistics-concept.jpg" alt="">
                                 <div class="project-two__content">
                                     <p class="project-two__sub-title">Express Logistics</p>
                                     <h3 class="project-two__title"><a href="index.php">Delivering success
@@ -798,7 +798,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="1100ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/project-2-5.jpg" alt="">
+                                <img src="assets/images/service/crew management.jpg" alt="">
                                 <div class="project-two__content">
                                     <p class="project-two__sub-title">Express Logistics</p>
                                     <h3 class="project-two__title"><a href="index.php">Delivering success

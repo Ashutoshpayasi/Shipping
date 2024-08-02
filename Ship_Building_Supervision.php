@@ -68,7 +68,7 @@
         <?php include 'header.php' ?>
 
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/service/audits-banner.png);">
+            <div class="page-header__bg" style="background-image: url(assets/images/service/ship\ building.jpg);">
             </div>
             <div class="container">
                 <div class="page-header__inner">

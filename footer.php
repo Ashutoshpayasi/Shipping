@@ -204,6 +204,6 @@
     }
 </style>
 
-<<a href="https://api.whatsapp.com/send/?phone=919910302896&text&type=phone_number&app_absent=0" class="whatsapp-link">
+<<a href="https://api.whatsapp.com/send/?phone=919910302896&text&type=phone_number&app_absent=0" target="__blank" class="whatsapp-link" >
     <i class="fab fa-whatsapp"></i>
     </a>

@@ -191,7 +191,7 @@
 
         <!--Google Map Start-->
         <section class="google-map-one google-map-two">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28028.162866318205!2d77.05106627652458!3d28.58416232946188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1b165af5ef61%3A0x1d62f9ff94fdcf7c!2sSector%207%2C%20Block%20E%2C%20Palam%20Extension%2C%20Palam%2C%20Delhi%2C%20110075!5e0!3m2!1sen!2sin!4v1722670646830!5m2!1sen!2sin" class="google-map__one" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d28028.443078997323!2d77.071624!3d28.583111!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1bd4828adf3b%3A0x57c7407aa9c1310a!2sA%20One%20Global%20Consultants-Study%20Abroad%20Consultants!5e0!3m2!1sen!2sin!4v1722674241248!5m2!1sen!2sin" class="google-map__one" allowfullscreen></iframe>
 
         </section>
         <!--Google Map End-->

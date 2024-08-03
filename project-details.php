@@ -326,7 +326,6 @@
 
 
 
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fas fa-arrow-up"></i></a>
 
 
     <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>

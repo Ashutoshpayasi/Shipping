@@ -32,10 +32,11 @@
                                 </li>
                                 <li>
                                     <div class="icon">
-                                        <span class="icon-call phone-call"></span>
+                                        <span class="icon-call phone-call" aria-hidden="true"></span>
                                     </div>
-                                    <p><a href="tel:9910302896">+91 9910302896 </a></p>
+                                    <p><a href="tel:+919910302896">+91 9910302896</a></p>
                                 </li>
+
                             </ul>
                         </div>
                     </div>
@@ -178,3 +179,31 @@
     </div>
     <!-- /.search-popup__content -->
 </div>
+
+<style>
+    .whatsapp-link {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: #25D366;
+        color: white;
+        border-radius: 50%;
+        width: 60px;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 30px;
+        text-decoration: none;
+        z-index: 9999;
+        /* Ensure this element stays above others */
+    }
+
+    .whatsapp-link:hover {
+        background-color: #128C7E;
+    }
+</style>
+
+<<a href="https://api.whatsapp.com/send/?phone=919910302896&text&type=phone_number&app_absent=0" class="whatsapp-link">
+    <i class="fab fa-whatsapp"></i>
+    </a>

@@ -474,9 +474,9 @@
                         <div class="counter-one__right wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="section-title text-left">
                                 <div class="section-titletagline-box">
-                                    <span class="section-titletagline" style="color: white;">Our Features</span>
+                                    <span class="section-titletagline" style="color:black; font: weigth 700px;">Our Features</span>
                                 </div>
-                                <h2 class="section-titletitle">Optimizing your maritime <br>operations and challenges</h2>
+                                <h2 class="section-titletitle" style="color:black; font: weigth 700px !important;">Optimizing your maritime <br>operations and challenges</h2>
                             </div>
                             <ul class="counter-one__count-list list-unstyled">
                                 <li>
@@ -855,7 +855,6 @@
 
     <!-- /.search-popup -->
 
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fas fa-arrow-up"></i></a>
 
 
     <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>

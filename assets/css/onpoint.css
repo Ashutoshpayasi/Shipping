@@ -3120,7 +3120,8 @@ ul {
   display: block;
   background-color: var(--onpoint-primary);
   border-radius: 50px;
-  padding: 120px 45px 120px;
+  /* padding: 120px 45px 120px; */
+  padding: 50px 45px 60px;
   padding-right: 30px;
 }
 

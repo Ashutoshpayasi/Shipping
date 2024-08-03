@@ -474,11 +474,10 @@
                         <div class="counter-one__right wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="section-title text-left">
                                 <div class="section-titletagline-box">
-                                    <span class="section-titletagline">Our Features</span>
+                                    <span class="section-titletagline" style="color: white;">Our Features</span>
                                 </div>
                                 <h2 class="section-titletitle">Optimizing your maritime <br>operations and challenges</h2>
                             </div>
-                            <p class="counter-oneright-text">Ship management services encompass the planning, implementation, and control of efficient and effective vessel operations, crew management, and regulatory compliance to ensure smooth sailing for your fleet.</p>
                             <ul class="counter-one__count-list list-unstyled">
                                 <li>
                                     <div class="counter-one__icon-and-count">

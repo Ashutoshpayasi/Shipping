@@ -122,13 +122,13 @@
                         </div>
                         <div class="main-menu__right">
                             <div class="main-menu__search-nav-sidebar-btn-box">
-                                <div class="main-menu__nav-sidebar-icon">
+                                <!-- <div class="main-menu__nav-sidebar-icon">
                                     <a class="navSidebar-button" href="#">
                                         <span class="icon-dots-menu-one"></span>
                                         <span class="icon-dots-menu-two"></span>
                                         <span class="icon-dots-menu-three"></span>
                                     </a>
-                                </div>
+                                </div> -->
                                 <div class="main-menu__btn-box">
                                     <a onclick=openModal() href="contact.php" class="thm-btn main-menu__btn">
                                         Get a Free Quote

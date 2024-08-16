@@ -15,14 +15,9 @@
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
-
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-
     <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet">
-
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
-
-
 
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -137,43 +132,63 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7">
-                        <div class="contact-two__left">
+                        <div class="contact-two__left" style="background-color: black;">
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
                                     <span class="section-title__tagline">Contact</span>
                                 </div>
-                                <h2 class="section-title__title">Get Touch Here</h2>
+                                <h2 class="section-title__title" style="color: #109adb;">Get Touch Here</h2>
                             </div>
-                            <form class="contact-form-validated contact-two__form" action="https://themehealer.com/onpoint/assets/inc/sendemail.php" method="post" novalidate="novalidate">
+
+                            <form id="contactForm2" class="faq-one__form" method="post" action="process_form.php">
                                 <div class="row">
                                     <div class="col-xl-6 col-lg-6">
-                                        <div class="contact-two__input-box">
-                                            <input type="text" name="name" placeholder="Name" required="">
+                                        <div class="faq-one__input-box">
+                                            <input type="text" name="name" placeholder="Your Name" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
-                                        <div class="contact-two__input-box">
-                                            <input type="email" name="email" placeholder="E-mail" required="">
+                                        <div class="faq-one__input-box">
+                                            <input type="email" name="email" placeholder="Your Email" required>
                                         </div>
                                     </div>
-                                    <div class="col-xl-12 col-lg-12">
-                                        <div class="contact-two__input-box">
-                                            <input type="text" name="text" placeholder="Subject" required="">
+                                    <div class="col-xl-6 col-lg-6">
+                                        <div class="faq-one__input-box">
+                                            <input type="text" name="phone" placeholder="Phone Number" required>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6">
+                                        <div class="faq-one__input-box">
+                                            <div class="select-box">
+                                                <select name="service" class="selectmenu wide">
+                                                    <option selected="selected">Choose an Option</option>
+                                                    <option>Sea Freight Services</option>
+                                                    <option>Vessel Management</option>
+                                                    <option>Logistics Solutions</option>
+                                                    <option>Ship Demolition</option>
+                                                    <option>Crew Management</option>
+                                                    <option>Shipboard Audits</option>
+                                                    <option>Maritime Consultancy</option>
+                                                    <option>Maritime Travel Services</option>
+                                                    <option>Ship Building Supervision</option>
+                                                </select>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-xl-12">
-                                        <div class="contact-two__input-box text-message-box">
-                                            <textarea name="message" placeholder="Message"></textarea>
+                                        <div class="faq-one__input-box text-message-box">
+                                            <textarea name="message" placeholder="Message here.."></textarea>
                                         </div>
                                     </div>
-                                    <div class=" col-xl-12">
-                                        <div class="contact-two__btn-box">
-                                            <button type="submit" class="thm-btn contact-two__btn">Submit
-                                                Now<span></span></button>
+                                    <div class="col-xl-12">
+                                        <div class="faq-one__btn-box">
+                                            <button type="submit" class="thm-btn faq-one__btn">Submit Now<span></span></button>
                                         </div>
                                     </div>
                                 </div>
                             </form>
+
+
                             <div class="result"></div>
                         </div>
                     </div>
@@ -235,40 +250,40 @@
 
 
     <!-- /.search-popup -->
-   
-
-    
-
-        <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
-        <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="assets/vendors/jarallax/jarallax.min.js"></script>
-        <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
-        <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
-        <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
-        <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
-        <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
-        <script src="assets/vendors/odometer/odometer.min.js"></script>
-        <script src="assets/vendors/swiper/swiper.min.js"></script>
-        <script src="assets/vendors/wnumb/wNumb.min.js"></script>
-        <script src="assets/vendors/wow/wow.js"></script>
-        <script src="assets/vendors/isotope/isotope.js"></script>
-        <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
-        <script src="assets/vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
-        <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
-        <script src="assets/vendors/jquery.circle-type/jquery.circleType.js"></script>
-        <script src="assets/vendors/jquery.circle-type/jquery.lettering.min.js"></script>
-        <script src="assets/vendors/nice-select/jquery.nice-select.min.js"></script>
-        <script src="assets/vendors/marquee/marquee.min.js"></script>
-        <script src="assets/vendors/sidebar-content/jquery-sidebar-content.js"></script>
 
 
 
 
-        <!-- template js -->
-        <script src="assets/js/onpoint.js"></script>
+    <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
+    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
+    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
+    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
+    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
+    <script src="assets/vendors/odometer/odometer.min.js"></script>
+    <script src="assets/vendors/swiper/swiper.min.js"></script>
+    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
+    <script src="assets/vendors/wow/wow.js"></script>
+    <script src="assets/vendors/isotope/isotope.js"></script>
+    <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="assets/vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
+    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
+    <script src="assets/vendors/jquery.circle-type/jquery.circleType.js"></script>
+    <script src="assets/vendors/jquery.circle-type/jquery.lettering.min.js"></script>
+    <script src="assets/vendors/nice-select/jquery.nice-select.min.js"></script>
+    <script src="assets/vendors/marquee/marquee.min.js"></script>
+    <script src="assets/vendors/sidebar-content/jquery-sidebar-content.js"></script>
 
-        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+
+    <!-- template js -->
+    <script src="assets/js/onpoint.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 </body>
 

@@ -79,20 +79,35 @@
                                     <li class="dropdown">
                                         <a href="#">Services</a>
                                         <ul>
-                                            <li><a href="Sea_Freight_Services.php">Sea Freight Services</a></li>
-                                            <li><a href="Vessel_Management.php">Vessel Management</a></li>
-                                            <li><a href="Logistics_Solutions.php">Logistics Solutions</a></li>
-                                            <li class="dropdown">
-                                                <a href="#">Other Services</a>
-                                                <ul>
-                                                    <li><a href="Ship_Demolition.php">Ship Demolition</a></li>
-                                                    <li><a href="Crew_Management.php">Crew Management</a></li>
-                                                    <li><a href="Shipboard_Audits.php">Shipboard Audits</a></li>
-                                                    <li><a href="Maritime_Consultancy.php">Maritime Consultancy</a></li>
-                                                    <li><a href="Maritime_Travel_Services.php">Maritime Travel Services</a></li>
-                                                    <li><a href="Ship_Building_Supervision.php">Ship Building Supervision</a></li>
-                                                </ul>
-                                            </li>
+                                            <li><a href="technical_management.php">Technical Management</a></li>
+                                            <li><a href="Crew_Management.php">Crew Management</a></li>
+                                            <li><a href="Maritime_Consultancy.php">Maritime Consultancy</a></li>
+                                            <li><a href="flag_state_documentation.php">Flag State Documentation</a></li>
+                                            <li><a href="travel_management.php">Travel Management</a></li>
+                                            <li><a href="crew_training.php">Crew Training & Education</a></li>
+                                           
+                                        </ul>
+                                    </li>
+
+                                    <li class="dropdown">
+                                        <a href="#">CDC/COC</a>
+                                        <ul>
+                                            <li><a href="panama_coc.php">Panama CDC/COC</a></li>
+                                            <li><a href="honduras_coc.php">Honduras CDC/COC</a></li>
+                                            <li><a href="liberian_coc.php">Liberian CDC/COC</a></li>
+                                            <li><a href="cook_island_coc.php">Cook Island CDC/COC</a></li>
+                                            <li><a href="st_kitts_nevis_cdc.php">St. Kitts & Nevis CDC/COC</a></li>
+                                            <li><a href="palau_coc.php">Palau CDC/COC</a></li>
+                                            <li><a href="indian_cdc.php">Indian CDC/COC</a></li>
+
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#">Join With Us</a>
+                                        <ul>
+                                            <li><a href="sea_job.php">Sea Jobs</a></li>
+                                            <li><a href="shore_job.php">Shore Jobs</a></li>
+
                                         </ul>
                                     </li>
 
@@ -117,7 +132,7 @@
                                 <div class="main-menu__btn-box">
                                     <a onclick=openModal() href="contact.php" class="thm-btn main-menu__btn">
                                         Get a Free Quote
-                                    <span></span></a>
+                                        <span></span></a>
                                 </div>
                             </div>
                         </div>

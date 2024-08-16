@@ -51,7 +51,7 @@
 
 
 
-    
+
     <!-- /.preloader -->
 
 
@@ -104,7 +104,7 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="why-choose-one__right">
                             <div class="why-choose-one__img wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <img src="assets/images/why-choose.jpg" style="height: 400px;" alt="">
+                                <img src="assets/images/service/crew_management-2.jpg" style="height: 400px;" alt="">
                             </div>
                         </div>
                     </div>
@@ -112,6 +112,98 @@
             </div>
         </section>
         <!--Services One End-->
+        <style>
+            .services-grid {
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 20px;
+                padding: 20px;
+            }
+
+            .service-item {
+                background-color: #f5f5f5;
+                border-radius: 8px;
+                padding: 20px;
+                text-align: center;
+                transition: all 0.3s ease;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            }
+
+            .service-item:hover {
+                box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+                transform: translateY(-5px);
+            }
+
+            .service-item i {
+                font-size: 2.5em;
+                color: #109adb;
+                margin-bottom: 15px;
+            }
+
+            .service-item h3 {
+                font-size: 1.2em;
+                margin-bottom: 10px;
+                color: #333;
+            }
+
+            .service-item p {
+                font-size: 0.9em;
+                color: #666;
+                flex-grow: 1;
+            }
+
+            @media (max-width: 900px) {
+                .services-grid {
+                    grid-template-columns: repeat(2, 1fr);
+                }
+            }
+
+            @media (max-width: 600px) {
+                .services-grid {
+                    grid-template-columns: 1fr;
+                }
+            }
+        </style>
+
+        <div class="section-title text-center">
+            <h2 class="section-title__title">We follow an exclusive  Crew Management System <br>with At-least 85% retention of crew for respective clients.</h2>
+        </div>
+
+
+        <div class="services-grid">
+            <div class="service-item">
+                <i class="fas fa-users"></i>
+                <h3>Manning of Ships</h3>
+                <p>Complete & Partial manning for all category ships.</p>
+            </div>
+            <div class="service-item">
+                <i class="fas fa-user-tie"></i>
+                <h3>Sea & Shore Staff</h3>
+                <p>Dedicated pool of sea & shore staff for respective Owners.</p>
+            </div>
+            <div class="service-item">
+                <i class="fas fa-ship"></i>
+                <h3>Demolition Voyages</h3>
+                <p>Specialized sea staff pool for demolition voyages.</p>
+            </div>
+            <div class="service-item">
+                <i class="fas fa-globe"></i>
+                <h3>Multi-National Crew</h3>
+                <p>Catering of Multi-National crew for respective Owners or Operators, under any Flag.</p>
+            </div>
+            <div class="service-item">
+                <i class="fas fa-th"></i>
+                <h3>Crew Matrix</h3>
+                <p>Assigning crew as per their experience in relevant ships to follow crew matrix on-board all ships.</p>
+            </div>
+            <div class="service-item">
+                <i class="fas fa-tools"></i>
+                <h3>ADHOC Specialized Crew</h3>
+                <p>Technically qualified & certified riding Crew team for ADHOC repairs & maintenance led by an experienced Bosun or Fitter.</p>
+            </div>
+        </div>
 
         <section class="process-one">
             <div class="container">
@@ -185,7 +277,7 @@
                                 <div class="services-details__get-touch-icon">
                                     <span class="icon-call"></span>
                                 </div>
-                               <h3 class="services-details__get-touch-number"><a href="tel:+91 9910302896">+91 9910302896</a></h3>
+                                <h3 class="services-details__get-touch-number"><a href="tel:+91 9910302896">+91 9910302896</a></h3>
                             </div>
                         </div>
                     </div>
@@ -273,9 +365,9 @@
                             <span class="icon-phone"></span>
                         </div>
                         <div class="content">
-                                <p>Need help?</p>
-                                <h3><a href="tel:+91 9910302896">+91 9910302896</a></h3>
-                            </div>
+                            <p>Need help?</p>
+                            <h3><a href="tel:+91 9910302896">+91 9910302896</a></h3>
+                        </div>
 
                     </div>
                 </div>
@@ -321,7 +413,7 @@
 
 
     <!-- template js -->
-        <script src="assets/js/onpoint.js"></script>
+    <script src="assets/js/onpoint.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

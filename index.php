@@ -572,13 +572,13 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <img src="assets\images\favicons\logo1.svg" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
                         <div class="swiper-slide">
                             <img src="assets\images\favicons\logo.gif" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
                         <div class="swiper-slide">
                             <img src="assets\images\favicons\farseas-logo-color.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
                         <div class="swiper-slide">
                             <img src="assets\images\favicons\logo1.svg" alt="">
                         </div>
@@ -650,7 +650,7 @@
                         <div class="faq-one__right wow fadeInRight" data-wow-delay="300ms">
                             <h3 class="faq-one__from-title">Our One-Stop ship Repair Shop</h3>
 
-                            <form id="contactForm1" class="contact-form-validated faq-one__form" method="post" novalidate="novalidate">
+                            <form id="contactForm1" class="contact-form-validated faq-one__form" method="post" novalidate="novalidate" action="process_form.php">
                                 <div class="row">
                                     <div class="col-xl-6 col-lg-6">
                                         <div class="faq-one__input-box">
@@ -738,9 +738,9 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/project-2-1.jpg" alt="">
+                                <img src="assets\images\services\wcm1.jpg" alt="">
                                 <div class="project-two__content">
-                                    <p class="project-two__sub-title">Express Logistics</p>
+                                   
                                     <h3 class="project-two__title"><a href="index.php">Delivering success through Shipping Management</a>
                                     </h3>
                                 </div>
@@ -754,7 +754,7 @@
                             <div class="project-two__img">
                                 <img src="assets/images/service/marine time travel.jpg" alt="">
                                 <div class="project-two__content">
-                                    <p class="project-two__sub-title">Express Logistics</p>
+                                   
                                     <h3 class="project-two__title"><a href="index.php">Delivering success
                                             through Shipping Management</a>
                                     </h3>
@@ -767,9 +767,9 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="700ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/favicons/transport-logistics-concept.jpg" alt="">
+                                <img src="assets/images/services/wcm4.jpg" alt="">
                                 <div class="project-two__content">
-                                    <p class="project-two__sub-title">Express Logistics</p>
+                                   
                                     <h3 class="project-two__title"><a href="index.php">Delivering success
                                             through Shipping Management</a>
                                     </h3>
@@ -782,9 +782,9 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="900ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/project-2-4.jpg" alt="">
+                                <img src="assets/images/services/wcm2.jpg" alt="">
                                 <div class="project-two__content">
-                                    <p class="project-two__sub-title">Express Logistics</p>
+                                   
                                     <h3 class="project-two__title"><a href="index.php">Delivering success
                                             through Shipping Management</a>
                                     </h3>
@@ -799,7 +799,7 @@
                             <div class="project-two__img">
                                 <img src="assets/images/service/crew management.jpg" alt="">
                                 <div class="project-two__content">
-                                    <p class="project-two__sub-title">Express Logistics</p>
+                                   
                                     <h3 class="project-two__title"><a href="index.php">Delivering success
                                             through Shipping Management</a>
                                     </h3>

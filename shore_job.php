@@ -129,7 +129,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <h2 class="section-title text-center mb-5">Apply for Sea Job</h2>
-                        <form class="job-vacancy-form"  action="./application.php" method="post" enctype="multipart/form-data">
+                        <form class="job-vacancy-form" id="applicationForm2" action="./application.php" method="post" enctype="multipart/form-data">
                             <div class="row g-3">
                                 <div class="col-md-6">
                                     <div class="form-floating">

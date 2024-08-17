@@ -1135,6 +1135,42 @@ $(document).ready(function() {
 });
 
 
+$(document).ready(function() {
+  function handleFormSubmit2(formId) {
+      $(formId).on('submit', function(e) {
+          e.preventDefault();
+
+          $.ajax({
+              url: 'application.php',
+              type: 'POST',
+              data: $(this).serialize(),
+              success: function(response) {
+                  Swal.fire({
+                      icon: 'success',
+                      title: 'Success',
+                      text: 'Your form has been submitted successfully!',
+                  });
+              },
+              error: function() {
+                  Swal.fire({
+                      icon: 'error',
+                      title: 'Oops...',
+                      text: 'Something went wrong!',
+                  });
+              }
+          });
+      });
+  }
+
+  // Apply form submission handler to each form
+  handleFormSubmit2('#applicationForm');
+  handleFormSubmit2('#applicationForm2');
+ 
+});
+
+
+
+
 // modal
 
 $(document).ready(function() {
